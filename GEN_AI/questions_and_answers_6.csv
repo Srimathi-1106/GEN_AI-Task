@@ -1,0 +1,78 @@
+Question,Answer
+What is the company's mission statement or core values?,"Based on the provided text, here are the statements that describe Stripe's mission, purpose, or core values:
+
+1.  **Primary Purpose/Mission:** ""We’re building a platform for ambitious companies around the world to make moving money as simple, borderless, and programmatic as the rest of the internet."" (Found in the ""Customers"" section).
+2.  **Impact/Goal:** ""Stripe builds financial infrastructure that ambitious companies use to launch their boldest products. Collectively, they are growing the GDP of the internet."" (Found in the ""Jobs"" section).
+3.  **Aspiration:** ""We aspire to make internet payments as ubiquitous and effortless as email."" (Found in the ""Jobs"" section).
+4.  **Core Value/Focus:** ""What matters to us is what we enable for others."" (Found in the ""Jobs"" section).
+5.  **Operational Philosophy:** ""We focus on the details of everything we do, so businesses around the world can focus on what’s most important to them."" (Found in the ""Jobs"" section).
+
+The text emphasizes building financial infrastructure for the internet, enabling businesses (especially ambitious ones), simplifying money movement globally, and ultimately ""growing the GDP of the internet."""
+What products or services does the company offer?,"Based on the provided text, here are the products and services offered by Stripe:
+
+**Core Payments & Global Commerce:**
+
+*   **Payments:** Accept online and in-person payments globally.
+    *   Online Payments
+    *   Payment Links (No-code payments)
+    *   Checkout (Pre-built payment form)
+    *   Elements (Flexible UI components)
+*   **Terminal:** In-person payments (including custom point-of-sale experiences and card readers).
+*   **Payment Methods:** Access to 100+ global payment methods (e.g., cards, Alipay, iDEAL, ACH, SEPA Direct Debit).
+*   **Link:** Accelerated checkout.
+*   **Authorization:** Acceptance optimisations to increase approval rates.
+*   **Payouts:** Sending funds to bank accounts or debit cards (including Instant Payouts).
+
+**Revenue and Finance Automation:**
+
+*   **Billing:** For subscriptions and usage-based recurring revenue models, minimizing churn, automating finance operations.
+*   **Invoicing:** Creating, sending, collecting, and tracking online invoices.
+*   **Revenue Recognition:** Accounting automation for streamlined accrual accounting.
+*   **Tax:** Sales tax & VAT automation.
+*   **Sigma:** Custom reports and analytics.
+*   **Data Pipeline:** Data synchronization.
+
+**Fraud, Risk, and Identity:**
+
+*   **Radar:** Fraud prevention and management (using machine learning, block/allow lists, rules engine).
+*   **Identity:** Online identity verification.
+
+**Embedded Payments and Finance (BaaS):**
+
+*   **Connect:** Payments infrastructure for platforms and marketplaces (onboarding, payouts, multi-party payments).
+*   **Issuing:** Launch, manage, and scale commercial card programs (physical or virtual cards).
+*   **Treasury:** Embed financial services like financial accounts, bill pay, interest earning, cash flow management.
+*   **Capital:** Offer fast, flexible financing to customers/users.
+*   **Financial Connections:** Access linked financial account data.
+
+**Business Operations & Startup:**
+
+*   **Atlas:** Startup incorporation services (legal entity, stock issuance, bank account, tax ID).
+
+**Climate Initiatives:**
+
+*   **Climate:** Facilitates contributions to permanent carbon removal technologies (via Climate Commitments or Climate Orders).
+
+**Developer Tools & Ecosystem:**
+
+*   **APIs:** REST API for integration.
+*   **Libraries and SDKs:** Client and server libraries in multiple programming languages.
+*   **Documentation:** Technical docs, guides, API reference.
+*   **Webhooks:** Event notifications.
+*   **Stripe App Marketplace:** Integrations with third-party tools (like Salesforce, SAP, Xero, Adobe).
+*   **Stripe Apps:** Ability to build custom apps for internal use or the marketplace.
+*   **Professional Services:** Expert integration guidance and support.
+*   **Partner Ecosystem:** Access to certified partners and consultants.
+*   **Support Centre:** Support plans, guides, customer stories, blog, phone/chat/email support."
+"When was the company founded, and who were the founders?","Based on the text provided:
+
+*   **Founding Date:** This information is **not mentioned** in the provided text.
+*   **Founders:** The text mentions **""The Collison Brothers""** in the title of a linked Forbes article (""The Collison Brothers Built Stripe Into A $95 Billion Unicorn..."")."
+Where is the company's headquarters located?,"Based on the text provided, Stripe has two headquarters located in:
+
+1.  **San Francisco**
+2.  **Dublin**
+
+The text states: ""We have two headquarters (San Francisco and Dublin), but we belong to the internet."""
+Who are the key executives or leadership team members?,API Error
+Has the company received any notable awards or recognitions?,API Error

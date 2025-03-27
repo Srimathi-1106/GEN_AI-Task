@@ -1,0 +1,88 @@
+Question,Answer
+What is the company's mission statement or core values?,"Based on the provided text, here are the relevant details regarding Dropbox's mission statement and principles/values:
+
+1.  **Mission Statement (from Terms of Service):**
+    *   ""Our mission is to create a more enlightened way of working, and help you and those you work with stay coordinated.""
+
+2.  **Mission Statement (from Investor Relations):**
+    *   ""We’re on a mission to unleash the world’s creative energy by designing a more enlightened way of working.""
+
+3.  **AI Principles (Guiding Values for AI Development - from Early Access page):**
+    *   Customer focused
+    *   Security minded
+    *   Responsible and honest
+
+4.  **Stated Priority/Promise (from Security & Enterprise pages):**
+    *   ""At Dropbox, security is our highest priority""
+    *   ""Security isn’t just our priority, it’s our promise""
+
+5.  **ESG Belief (from Investor Relations page):**
+    *   ""We believe Dropbox has a responsibility to make the world a better place, both inside and outside our company."""
+What products or services does the company offer?,"Based on the provided text, here are the products and services offered by Dropbox:
+
+**Core Products & Named Services:**
+
+1.  **Dropbox:** The core product for storing, sharing, syncing, and accessing files across devices (includes cloud storage, file sharing, etc.).
+2.  **Replay:** For reviewing and approving videos faster, including video feedback tools.
+3.  **Backup:** For automatically backing up devices (computers, external drives).
+4.  **Reclaim.ai:** An AI tool for scheduling habits, tasks, and meetings.
+5.  **Dash:** An AI-powered tool to find, organize, and protect company content (universal search). Currently mentioned as Early Access/Beta for Business.
+6.  **DocSend:** For sending documents securely, tracking activity (page-by-page analytics), and controlling permissions.
+7.  **Sign (Dropbox Sign):** For requesting and adding electronic signatures to documents (formerly HelloSign). Includes features like templates and bulk-send.
+8.  **Transfer (Dropbox Transfer):** For sending large files (up to 250 GB depending on plan) securely, with features like password protection and expiration dates.
+9.  **Capture:** For creating screen recordings and video messages.
+10. **Passwords (Dropbox Passwords):** A zero-knowledge password manager.
+11. **Fax (Dropbox Fax):** Service for sending faxes electronically.
+12. **Forms (Dropbox Forms):** Mentioned alongside Sign and Fax, likely for creating/managing forms.
+
+**Key Features/Capabilities (often marketed as services):**
+
+*   Cloud Storage
+*   File Sharing (including large files, long videos, folder sharing, link sharing)
+*   File Syncing (including offline access)
+*   Secure File Transfer
+*   Electronic Signatures (core of Dropbox Sign)
+*   Document Analytics (core of DocSend)
+*   Video Review & Feedback (core of Replay)
+*   Computer Backup (core of Backup)
+*   PDF Editing, Annotation, Conversion
+*   Document Scanning / Online OCR
+*   Password Protection for files/links
+*   Digital Watermarking
+*   File Recovery and Version History
+*   Remote Wipe
+
+**Specific Plans/Offerings:**
+
+*   Personal Plans (e.g., Plus, Family)
+*   Business Plans (e.g., Standard, Advanced, Professional)
+*   Enterprise Plan (Tailored for large corporations with advanced admin/security controls)
+*   Education Plan (Tailored for educational institutions)
+*   Creative Tools Add-On (Enhances transfer limits for certain plans)
+*   Data Governance Add-On (For compliance and data retention needs)
+
+**Programs & Developer Tools:**
+
+*   **Early Access:** Program to preview and test new product experiences (alpha/beta).
+*   **API:** Application Programming Interface, specifically mentioning the **Sign API** for integrating eSignatures.
+*   **Templates:** Sample templates and forms provided within the Services.
+
+**Other Company Activities (mentioned but not user products):**
+
+*   **Dropbox Ventures:** Investment arm for AI startups."
+"When was the company founded, and who were the founders?","Based on the text provided, the founding date and the names of the founders of Dropbox are not mentioned. The text focuses on products, features, security, terms of service, investor relations, and use cases."
+Where is the company's headquarters located?,"Based on the text provided, the company's headquarters location appears to be in **San Francisco, CA**.
+
+This is indicated in the ""Terms of Service"" section under ""Copyright"", which lists the address for Dropbox, Inc. as: 1800 Owens St San Francisco, CA 94158. The ""Resolving Disputes"" section also repeatedly refers to San Francisco County, California."
+Who are the key executives or leadership team members?,"Based on the text provided, there are no specific names mentioned that identify key executives or leadership team members of Dropbox.
+
+While the text includes:
+*   Names in customer testimonials (e.g., Bryan Chandler, Justin Tse, Jonathan Lott, Chloe Good, Aurovinda Shyamal, Daniel Halter, Jason Lew, Brian Bristol, Aaron Gibralter, Eric Pohlabel, Soren Kruger), these individuals are identified as customers, partners, or influencers, not Dropbox executives.
+*   References to sections like ""Our team & board of directors"" on the Investor Relations page, the actual names from that section are not listed within the provided text."
+Has the company received any notable awards or recognitions?,"Based on the text provided, here are the notable awards and recognitions mentioned for Dropbox:
+
+1.  **G2 Leader in Enterprise:** Dropbox is highly rated by G2 users and has a substantial Satisfaction and Market Presence score.
+2.  **G2 Momentum Leader:** Dropbox ranks in the Momentum Grid® in the top 25% of its category's products by users.
+3.  **G2 Winter 2024 Leader:** Recognized as a leader according to reviews by G2 users.
+4.  **Editors’ Choice Awards (Mobile App):** Received from the Google Play and Apple App Store for the Dropbox mobile app (associated with 1B+ downloads).
+5.  **G2 Recognition for eSignature API (Dropbox Sign):** Acknowledged by G2 as having the fastest-to-implement eSignature API."

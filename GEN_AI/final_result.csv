@@ -1,0 +1,41 @@
+URL,What is the company's mission statement or core values,What products or services does the company offer,"When was the company founded, and who were the founders",Where is the company's headquarters located,Who are the key executives or leadership team members,Has the company received any notable awards or recognitions
+https://www.snap.com,"Snap believes the camera presents the greatest opportunity to improve the way people live and communicate, contributing to human progress by empowering people to express themselves, live in the moment, learn about the world, and have fun together.","Based on the text, Snap Inc. offers products and services including:
+
+*   Snapchat
+*   Bitmoji
+*   Spectacles
+*   Snap AR (including Lenses)
+*   Advertising and Business services
+*   Platforms for Developers and Creators","Based on the text provided, the founding date and the names of the founders are not mentioned.",API Error,"Based on the text provided, the only key executive mentioned by name and title is **Evan Spiegel, CEO**.",API Error
+https://www.dropbox.com,"Based on the text:
+
+Dropbox has a ""big mission"" and believes ""the future is built on great ideas"" which ""come from everywhere."" Its founding purpose was to provide ""a better way of storing and accessing our content.""","Dropbox offers **cloud storage, file sharing, backup, and synchronization** (Dropbox core product), along with specialized tools like **Replay** (video review), **DocSend** (secure document sharing/analytics), **Sign** (e-signatures), **Dash** (AI search), and **Backup** (device backup). They also provide mobile and desktop apps.","Based on the text provided, the founding date and the names of the founders are not mentioned.",The text does not explicitly state the headquarters location.,API Error,API Error
+https://www.tesla.com,"Based on the text, Tesla's mission is ""to accelerate the world’s transition to sustainable energy.""","Based on the text, Tesla offers:
+
+*   **Electric Cars:** Model S, Model 3, Model X, Model Y, Cybertruck.
+*   **Energy Products:** Solar Panels, Solar Roof, Powerwall.
+*   **Services:** Supercharging network, Vehicle Service/Repair, Accessories.",Tesla was founded around 2003. The founders are not mentioned in the provided text.,"Austin, TX",API Error,API Error
+https://www.spacex.com,The provided text does not state the company's mission statement or core values.,"Falcon 9, Falcon Heavy, Dragon, Starship, Human Spaceflight, Rideshare, Starshield, Starlink.","Based on the text provided, the founding date and founders of SpaceX are not mentioned.",The provided text does not state the location of the company's headquarters.,"Based on the text provided, there is no information about key executives or leadership team members.","Based on the text provided, there is no mention of any notable awards or recognitions received by the company."
+https://robinhood.com,"Based on the text, Robinhood's belief is that ""finance is for everyone"" and they aim to ""democratize"" access.","Based on the text, Robinhood offers:
+
+*   **Investing/Trading:** Stocks, ETFs, Options, Crypto, Futures.
+*   **Accounts:** Brokerage, Retirement (IRA), Spending Account, Banking.
+*   **Services:** Portfolio Management (Strategies), Robinhood Gold (premium subscription), Robinhood Legend (trading platform), Crypto Wallet.
+*   **Cards:** Cash Card (Prepaid), Gold Card (Credit).
+*   **Other:** Educational Content (Learn/Snacks), Merchandise.","Based on the text provided, the company's founding date and the names of its founders are not mentioned.","Menlo Park, CA.","Based on the text provided, the names of key executives or leadership team members are not mentioned.","Based on the text provided, there is no mention of any notable awards or recognitions received by the company."
+https://stripe.com,"Stripe builds economic infrastructure for the internet, aiming to grow the GDP of the internet.","Stripe offers financial infrastructure products including:
+
+*   **Payments:** Online, in-person (Terminal), optimized checkout (Checkout, Elements, Link), fraud prevention (Radar).
+*   **Platform Payments:** Connect for marketplaces and platforms.
+*   **Revenue & Finance Automation:** Billing, Invoicing, Tax, Revenue Recognition, Sigma (reporting).
+*   **Embedded Finance/Banking-as-a-Service:** Issuing (cards), Capital (financing), Treasury (financial accounts).
+*   **Other:** Atlas (startup incorporation), Identity verification, Financial Connections.",API Error,Stripe has two headquarters: San Francisco and Dublin.,"Based on the text:
+
+*   **The Collison Brothers** (implied founders/leaders)
+*   **Claire Hughes Johnson** (COO)
+*   **Will Gaybrick** (Product and Business)
+*   **Jeff Titterton** (Marketing)",API Error
+https://squareup.com,API Error,API Error,API Error,API Error,API Error,API Error
+https://www.shopify.com,API Error,API Error,API Error,API Error,API Error,API Error
+https://www.zara.com,API Error,API Error,API Error,API Error,API Error,API Error
+https://hmgroup.com,API Error,API Error,API Error,API Error,API Error,API Error
