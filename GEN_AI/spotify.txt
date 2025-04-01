@@ -1,0 +1,3352 @@
+Page: https://www.facebook.com/Spotify
+Content:
+Hmmm… can't reach this page
+It looks like the webpage at https://www.facebook.com/Spotify might be having issues, or it may have moved permanently to a new web address.
+ERR_QUIC_PROTOCOL_ERROR
+Microsoft Edge
+
+================================================================================
+
+Page: https://investors.spotify.com/
+Content:
+Skip to main content
+Spotify Investors
+Our mission is to unlock the potential of human creativity—by giving a million creative artists the opportunity to live off their art and billions of fans the opportunity to enjoy and be inspired by it.
+Q4 2024 Earnings Report
+VIEW ALL
+Shareholder Deck
+
+(OPENS IN NEW WINDOW)
+VIEW
+Financial Statements
+
+(OPENS IN NEW WINDOW)
+VIEW
+Earnings Webcast
+
+(OPENS IN NEW WINDOW)
+VIEW
+Prepared Remarks
+
+(OPENS IN NEW WINDOW)
+VIEW
+News
+Spotify's latest updates, from partnerships to products to podcasts.
+VIEW ALL
+FOR THE RECORD
+The Spotify Partner Program Expands To Nine New Markets, Giving More Creators New Ways To Monetize Their Content
+MARCH 27, 2025
+FOR THE RECORD
+Meet the New Class of Artists Shaping the Future of Spanish Music
+MARCH 26, 2025
+FOR THE RECORD
+Svenska artister genererar rekordutbetalningar från Spotify: 1,9 miljarder under 2024
+MARCH 26, 2025
+FOR THE RECORD
+Our New Concerts Near You Playlist Makes It Fun and Easy To Discover Touring Artists
+MARCH 20, 2025
+FOR THE RECORD
+Podcasts Take Center Stage at SXSW as Top Creators Discuss Video’s Impact
+MARCH 18, 2025
+FOR THE RECORD
+Celebrate Women’s History Month With These Empowering Audiobooks
+MARCH 18, 2025
+LOAD MORE
+Press Releases
+Releases related to financials, quarterly results and SEC filings.
+VIEW ALL
+Spotify Technology S.A. to Announce Results for First Quarter 2025
+MARCH 27, 2025
+Spotify Technology S.A. Releases Results for Fourth Quarter 2024
+FEBRUARY 4, 2025
+Spotify Technology S.A. to Announce Financial Results for Fourth Quarter 2024
+JANUARY 2, 2025
+Spotify Technology S.A. Releases Financial Results for Third Quarter 2024
+NOVEMBER 12, 2024
+Spotify Technology S.A. to Announce Financial Results for Third Quarter 2024
+SEPTEMBER 26, 2024
+Spotify Technology S.A. Releases Financial Results for Second Quarter 2024
+JULY 23, 2024
+About Spotify
+Since its launch in 2008, Spotify has revolutionised music listening. Our move into podcasting brought innovation and a new generation of listeners to the medium. In 2022, we took the next leap, entering the fast-growing audiobook market—continuing to shape the future of audio. Today, more listeners than ever can discover, manage and enjoy over 100 million tracks, 6.5 million podcast titles, and 350,000 audiobooks a la carte on Spotify. We are the world’s most popular audio streaming subscription service with more than 675 million users, including 263 million subscribers in more than 180 markets.
+VIEW ALL
+Building the World’s #1 Audio Network
+Spotify transformed music listening forever when we launched in 2008, moving the music industry from a "transaction-based" experience of buying and owning audio content to an "access-based" model allowing users to stream on demand.
+FEATURED SITE
+Spotify Originals & Exclusives
+FEATURED PODCAST
+The Joe Rogan Podcast
+FEATURED PODCAST
+RapCaviar
+Our Platform and User Experience
+Innovation is at the core of what we do, and we continually work to deliver the best audio experience to listeners. Spotify is more than an audio streaming service - we are in the discovery business. We help make it easier to discover new audio that listeners love through personalized discovery at scale, around the world.
+SPOTIFY R&D
+Engineering
+FEATURED AUDIO
+Spotify: A Product Story
+Connecting Creators with Their Fans
+Helping artists and creators get discovered, grow their audience, and create the content that fuels their ambitions, is the foundation of what we do.
+FEATURED SITE
+Spotify for Artists
+FEATURED SITE
+Spotify for Podcasters
+FEATURED SITE
+Noteable
+Email Alerts
+Investor Alert Options
+News
+SEC Filings
+Events
+SUBMIT
+Investor Contact
+Questions for the Investor Relations department can be emailed to ir@spotify.com or submitted by clicking on the button below.
+CONTACT US
+COMPANY
+About
+Jobs
+COMMUNITIES
+For Artists
+Developers
+Advertising
+Investors
+Vendors
+USEFUL LINKS
+Support
+Web Player
+Link to Spotify Instagram
+Link to Spotify Twitter
+Link to Spotify Facebook
+Get Spotify
+Legal Privacy Policy Cookies About Ads
+
+================================================================================
+
+Page: https://www.lifeatspotify.com/
+Content:
+Your connection isn't private
+Attackers might be trying to steal your information from www.lifeatspotify.com (for example, passwords, messages, or credit cards). Learn more about this warning
+NET::ERR_CERT_AUTHORITY_INVALID
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Go back
+Advanced
+
+================================================================================
+
+Page: https://www.spotify.com/legal/cookies-policy/
+Content:
+भारत (हिन्दी)
+✕
+Close
+SKIP TO CONTENT
+Spotify
+Menu
+Legal
+Terms and Conditions of Use
+Intellectual Property Policy
+Privacy Policy
+User Guidelines
+Premium Offer Terms
+Spotify Cookie Policy
+Effective as of 29 May 2023
+What are cookies?
+How do we use cookies?
+Options for managing cookies and interest-based ads
+Updates to this Policy
+How to contact us
+This policy describes how Spotify uses cookies. From now on, we'll call it the 'Policy'. The purpose of this Policy is to provide you, a user of Spotify's services and/or websites (we'll collectively call these the 'Services'), with clear information about the purposes for which Spotify uses cookies and the choices you have when it comes to managing your cookie settings.
+1. What are cookies?
+Cookies are small pieces of text which are downloaded to your device, for example, when you visit a website. Cookies are useful because they allow Spotify and our partners to uniquely recognise your device and support the continuity of your experience, for example by helping us to understand your preferences or past actions. You can find more general information about cookies at: www.allaboutcookies.org.
+2. How do we use cookies?
+Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improving your user experience. They can also help to ensure that ads you see online are more relevant to you and your interests.
+Spotify uses two main categories of cookie: (1) strictly necessary cookies; and (2) optional cookies:
+1. Strictly Necessary Cookies
+These cookies are set by Spotify or a third party on our behalf, and are essential to enable you to use the features of our Services, such as technically delivering content, setting your privacy preferences, logging in, making payments or filling in forms. Without these cookies, our Services cannot be provided so you cannot decline them.
+2. Optional Cookies
+Optional cookies may be 'first party cookies' or 'third party cookies'. First party cookies set directly by Spotify or by a third party at our request. Third party cookies are set directly by a third party or set by Spotify at the request of a third party, such as our analytics or advertising service providers. You can see a list of these partners at this link. Spotify, or our partners, use optional cookies in the following ways:
+Cookie Type
+Purpose
+Strictly Necessary Cookies
+These cookies are essential in order to enable you to use the features of our Services, such as technically delivering content, setting your privacy preferences, logging in, making payments or filling in forms. Without these cookies, our Services cannot be provided so you cannot decline them.
+Performance Cookies
+These cookies collect information about how visitors use our Services. For example, these cookies allow us to count visits to our website and to understand how visitors found the website.
+Web analytics that use cookies to gather data to enhance the performance of a website fall into this category. For example, they may be used for testing designs and ensuring a consistent look and feel is maintained for the user. We may also obtain information from our email newsletters or other communications we send to you, including whether you opened or forwarded a newsletter or clicked on any of its content. This information tells us about our newsletters' effectiveness and helps us ensure that we're delivering information that you find interesting.
+This category does not include cookies used for behavioural/interest-based targeted advertising networks.
+Functional
+These cookies allow our Services to remember choices you make such as your user name, language or the region you are in and provide enhanced, more personal features and content. For example, these cookies can be used to remember changes you have made to parts of web pages that you can customise.
+These cookies remember choices you make to improve your experience. If you do not allow these cookies then some of the choices you have made on previous visits to our Services will not be saved.
+Targeting or advertising Cookies
+These cookies collect information about your browsing habits in order to deliver advertisements more relevant to you and to understand your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertisements Spotify shares. These cookies log that you have visited a website and this information may be shared with other organisations such as advertisers. Additionally, Spotify may share limited data with other platforms to market Spotify promotions, features, or new releases on those other platforms. If you do not allow these cookies you will still experience advertising but it will be less tailored to you.
+3. Options for managing cookies and interest-based ads
+Web Browser Settings
+You can use your web browser settings to accept, refuse and delete cookies. To do this, follow the instructions provided by your browser (usually located within the 'Help', 'Tools' or 'Edit' settings).
+Please note that if you set your browser to refuse cookies, you may not be able to use all the features of the Spotify website. To find out more information, you can visit www.allaboutcookies.org.
+Mobile Identifiers
+On your mobile device, your operating system may provide you with additional options to opt out of interest based advertising or to otherwise reset your mobile identifiers. For example, you may use the 'Allow Apps to Request to Track' setting (on iOS devices) or the 'Opt out of Interest-Based Ads' setting (on Android devices). These settings allow you to limit the use of information about your use of apps for purposes of serving ads tailored to your interests.
+Interest-Based Advertising
+You may opt-out of receiving interest-based advertisements by turning off the 'Tailored ads' toggle, located in the Privacy Settings page of your Spotify Account. If you opt-out of receiving interest-based ads using the Tailored ads toggle, Spotify will not share your information with third party advertising partners or use information received by them to show you interest-based ads. You may still receive ads when using the Services based on your Spotify registration information and your real-time usage of Spotify, but the ads may be less relevant to you.
+Certain tailored advertisements that we, or a service provider acting on our behalf, display to you may include the 'Ad Choices' icon or another mechanism to opt out of receiving interest-based advertisements. You may click on the AdChoices icon or visit www.aboutads.info to:
+learn more about the collection and use of information about your online activities for interest based advertising; or
+opt out of having your data used for interest based advertising by Digital Advertising Alliance (DAA) participating companies.
+4. Updates to this Policy
+We may occasionally make changes to this Policy.
+When we make material changes to this Policy, we'll provide you with prominent notice as appropriate under the circumstances. For example, we may display a prominent notice within the Spotify Services or send you an email or device notification.
+5. How to contact us
+Thank you for reading this Policy. If you have any questions about this Cookie Policy, please contact our Data Protection Officer by using the Customer Support contact form details on the Privacy Center or by writing to us at the following address:
+Spotify AB
+Regeringsgatan 19, SE-111 53 Stockholm
+Sweden
+SE556703748501
+© Spotify AB.
+Spotify
+COMPANY
+About
+Jobs
+For the Record
+COMMUNITIES
+For Artists
+Developers
+Advertising
+Investors
+Vendors
+USEFUL LINKS
+Support
+Web Player
+Free Mobile App
+SPOTIFY PLANS
+Premium Individual
+Premium Duo
+Premium Family
+Premium Student
+Spotify Free
+India (English)
+Legal
+Safety & Privacy Center
+Privacy Policy
+Cookies
+About Ads
+Accessibility
+© 2025 Spotify AB
+We andour partners use cookies to personalize your experience, to show you ads based on your interests, and for measurement and analytics purposes. By using our website and services, you agree to our use of cookies as described in ourCookie Policy.
+
+================================================================================
+
+Page: https://www.spotify.com/in-en/student/#ref=spotifycom_footer_premium_student
+Content:
+भारत (हिन्दी)
+✕
+Close
+SKIP TO CONTENT
+Spotify
+Menu
+₹59.00 for 2 months of Premium Student
+Only ₹59.00/month after. Cancel anytime.
+Get Premium
+Offer available only to students at an accredited higher education institution. Offer not available to users who already tried Premium. Spotify Student Discount Offer Terms and conditions apply.
+Soundtrack your study
+Ad-free music listening
+Study til sunset. Dance til dawn.
+Listen offline
+Never worry about data again, wherever you are.
+Music for every moment
+Millions of songs, amazing playlists.
+Easy on the ears
+Premium packs even more sound quality into every song.
+Questions?
+We’ve got answers
+Am I eligible for this plan?
+How do you verify that I’m a student?
+What happens to my account when I graduate or leave school?
+What will I be charged and when?
+₹59.00 for 2 months of Premium Student
+Only ₹59.00/month after. Cancel anytime.
+Get Premium
+Offer available only to students at an accredited higher education institution. Offer not available to users who already tried Premium. Spotify Student Discount Offer Terms and conditions apply.
+Spotify
+COMPANY
+About
+Jobs
+For the Record
+COMMUNITIES
+For Artists
+Developers
+Advertising
+Investors
+Vendors
+USEFUL LINKS
+Support
+Web Player
+Free Mobile App
+SPOTIFY PLANS
+Premium Individual
+Premium Duo
+Premium Family
+Premium Student
+Spotify Free
+India (English)
+Legal
+Safety & Privacy Center
+Privacy Policy
+Cookies
+About Ads
+Accessibility
+© 2025 Spotify AB
+We andour partners use cookies to personalize your experience, to show you ads based on your interests, and for measurement and analytics purposes. By using our website and services, you agree to our use of cookies as described in ourCookie Policy.
+
+================================================================================
+
+Page: https://support.spotify.com/
+Content:
+Spotify Support Site
+Spotify Support
+How can we help you?
+Log in for faster help
+Start typing into the Search box, then use the Tab key to choose an option from the list.
+Payments & billing
+Manage your account
+Premium plans
+In-app features
+Devices & troubleshooting
+Safety & privacy
+Quick help
+Can’t log in to Spotify
+Failed payment help
+Charged too much
+Invite or remove Family plan members
+How to change your payment details
+Visit our Community
+Have questions? Find answers from our worldwide Community of expert fans!
+Go to Community
+Spotify
+Company
+About
+Jobs
+For the Record
+Communities
+For Artists
+Developers
+Advertising
+Investors
+Vendors
+Useful Links
+Support
+Web Player
+Free Mobile App
+Contact Spotify
+Spotify Plans
+Premium Individual
+Premium Duo
+Premium Family
+Premium Student
+Spotify Free
+Legal
+Safety & Privacy Center
+Privacy Policy
+Cookies
+About Ads
+Accessibility
+© 2025 Spotify AB
+India (English)
+We andour partners use cookies to personalize your experience, to show you ads based on your interests, and for measurement and analytics purposes. By using our website and services, you agree to our use of cookies as described in ourCookie Policy.
+
+================================================================================
+
+Page: https://open.spotify.com/genre/podcasts-web
+Content:
+Premium
+Support
+Download
+Install App
+Sign up
+Log in
+Your Library
+Create your first playlist
+It's easy, we'll help you
+Create playlist
+Let's find some podcasts to follow
+We'll keep you updated on new episodes
+Browse podcasts
+English
+Preview of Spotify
+Sign up to get unlimited songs and podcasts with occasional ads. No credit card needed.
+Sign up free
+Podcasts
+Best episodes of the week
+Show all
+Why 99.6% of Indians Aren't Rich
+Mar 1917 min
+33 VCs saying NO, being labelled FAKE to signing Diljit: The Incredible Story of Mokobara
+Mar 21121 min
+Aamir Khan – The Childlike Mind That Fuels a Superstar
+Mar 2245 min
+Fresh Finds
+Show all
+
+================================================================================
+
+Page: https://www.spotify.com/in-en/free/#ref=spotifycom_footer_free
+Content:
+भारत (हिन्दी)
+✕
+Close
+SKIP TO CONTENT
+Spotify
+Menu
+Play millions of songs and podcasts for free
+Sign up free
+Why Spotify?
+Play your favorites
+Listen to the songs you love, and discover new music and podcasts.
+Playlists made easy
+We'll help you make playlists. Or enjoy playlists made by music experts.
+Make it yours
+Tell us what you like, and we'll recommend music for you.
+Save mobile data
+To use less data when you play music, turn on Data Saver in Settings.
+It's free. No credit card required.
+Got questions?
+How do I create a playlist?
+
+
+
+
+
+
+
+How do I activate Data Saver mode?
+
+
+
+Is it only possible to shuffle play music?
+
+
+Where can I find Podcasts?
+Ready? Let’s play.
+Sign up free
+Spotify
+COMPANY
+About
+Jobs
+For the Record
+COMMUNITIES
+For Artists
+Developers
+Advertising
+Investors
+Vendors
+USEFUL LINKS
+Support
+Web Player
+Free Mobile App
+SPOTIFY PLANS
+Premium Individual
+Premium Duo
+Premium Family
+Premium Student
+Spotify Free
+India (English)
+Legal
+Safety & Privacy Center
+Privacy Policy
+Cookies
+About Ads
+Accessibility
+© 2025 Spotify AB
+We andour partners use cookies to personalize your experience, to show you ads based on your interests, and for measurement and analytics purposes. By using our website and services, you agree to our use of cookies as described in ourCookie Policy.
+
+================================================================================
+
+Page: https://ads.spotify.com/
+Content:
+Spotify Advertising
+Let’s talk
+Reach people as they cook.
+Reach people as they
+Millions of people around the world soundtrack their moments with Spotify. Reach them with easy-to-make ads that sound (and look) beautiful. Connect with us and we’ll get the band together to help build your audio footprint.
+Let’s talk
+Ads sound better on Spotify.
+With the power of streaming audio, you can tailor your message to your audience’s context — and drive results for your brand. Press play to hear what makes audio so impactful.
+Explore our full range of ad experiences
+Want more? We’ve got it all, including audio, video, and display. Check out all the ways you can get heard and seen on Spotify.
+Learn more
+Explore Culture Next 2023
+In the global digital age, culture is constantly growing, morphing, and being redefined. It never stays the same—and anyone, anywhere, can influence its course. So what does that mean for advertisers? For this fifth iteration of Culture Next we reexamined the habits, behaviours and opinions of Zs and their millennial counterparts who drive culture on Spotify.
+Explore the report
+Looking for something a little more custom? Let's talk.
+I am
+a brand/business
+an agency
+a creator
+an educational institution
+a Spotify premium/free user
+other
+looking to
+drive revenue
+grow awareness
+drive traffic
+promote music
+get help
+other
+India
+State
+Haryana
+Himachal Pradesh
+Rajasthan
+Uttar Pradesh
+Punjab
+Delhi
+Ladakh
+Uttarakhand
+Chandigarh
+Bihar
+Jharkhand
+Odisha
+West Bengal
+Andhra Pradesh
+Telangana
+Karnataka
+Kerala
+Tamil Nadu
+Gujarat
+Madhya Pradesh
+Maharashtra
+Sign up for our newsletter
+Get in touch
+Follow Us
+Spotify Advertising
+Topic
+About
+Jobs
+For the Record
+Community
+Spotify for Artists
+Spotify for Developers
+Investors
+Vendors
+Useful Links
+Help center
+Web Player
+Legal
+Privacy Centre
+Privacy Policy
+Cookies
+About Ads
+Spotify Advertising Program Terms & Conditions
+Change country
+© 2025 Spotify AB
+We andour partners use cookies to personalize your experience, to show you ads based on your interests, and for measurement and analytics purposes. By using our website and services, you agree to our use of cookies as described in ourCookie Policy.
+
+================================================================================
+
+Page: https://www.spotify.com/in-en/legal/privacy-policy/#s3
+Content:
+भारत (हिन्दी)
+✕
+Close
+SKIP TO CONTENT
+Spotify
+Menu
+Legal
+Terms and Conditions of Use
+Intellectual Property Policy
+Privacy Policy
+User Guidelines
+Premium Offer Terms
+Spotify Privacy Policy
+Effective as of 10 October 2024
+1. About this Policy
+2. Your personal data rights and controls
+3. Personal data we collect about you
+4. Our purpose for using your personal data
+5. Sharing your personal data
+6. Data retention
+7. Transfer to other countries
+8. Keeping your personal data safe
+9. Children
+10. Changes to this Policy
+11. How to contact us
+1. About this Policy
+This Privacy Policy describes how we process your personal data at Spotify AB. From now on, we'll call it the 'Policy'.
+It applies to your use of:
+all Spotify streaming services as a user. For example this includes:
+your use of Spotify on any device
+the personalisation of your user experience. Watch our personalisation explainer video to learn more about this
+the infrastructure required to provide our services
+connection of your Spotify account with another application
+both our free or paid streaming options (each a 'Service Option')
+other Spotify services which include a link to this Policy. These include Spotify websites, Customer Service and the Community Site
+From now on, we'll collectively call these the 'Spotify Service'.
+From time to time, we may develop new or offer additional services. They'll also be subject to this Policy, unless stated otherwise when we introduce them.
+This Policy is not...
+the Spotify Terms of Use, which is a separate document. The Terms of Use outline the legal contract between you and Spotify for using the Spotify Service. It also describes the rules of Spotify and your user rights
+about your use of other Spotify services which have their own privacy policy. Other Spotify services include Anchor, Soundtrap, Megaphone and the Spotify Live app
+Other resources and settings
+Key information about your personal data is right here in this Policy. However, you might want to take a look at our other privacy resources and controls:
+Privacy Center: A user-friendly hub with summaries of key topics and helpful videos. It includes the 'Your Privacy Controls' video which shows you how to exercise your user rights and make choices about the way we process your data. See Section 2 'Your personal data rights and controls' for more on user rights.
+Account Privacy: Control the processing of certain personal data, including tailored advertising.
+Notification Settings: Set which marketing communications you get from Spotify.
+Settings (found in the Desktop and Mobile versions of Spotify): Control certain aspects of the Spotify Service such as 'Social' or 'Explicit Content'. On the 'Social' setting, you can:
+start a Private session
+choose whether to share what you listen to on Spotify with your followers
+choose whether to show your recently played artists on your public profile
+On the 'Explicit Content' setting you can control whether explicit-rated content can be played on your Spotify account.
+Cookies Policy: Information on how we use cookies and how to manage your cookie preferences. Cookies are files saved on your phone, tablet or computer when you visit a website.
+2. Your personal data rights and controls
+Many privacy laws give rights to individuals over their personal data. These laws include the General Data Protection Regulation, or 'GDPR'.
+Some rights only apply when Spotify uses a certain 'legal basis' to process your data. We explain each legal basis, and when Spotify uses each one, in Section 4 'Our purpose for using your personal data'.
+The table below explains:
+your rights
+circumstances when they apply (such as the legal basis required)
+how to use them
+You can also watch our video about Your Privacy Controls.
+It’s your right to...
+How?
+Be informed
+Be informed of the personal data we process about you and how we process it.
+We inform you:
+
+through this Policy
+through information provided to you as you use the Spotify Service
+by answering your specific questions and requests when you contact us
+Access
+Request access to the personal data we process about you.
+
+To request a copy of your personal data from Spotify, either:
+
+use the “Download your data” tool on your Account Privacy page, or
+contact us
+
+When you download your data you will receive the information about your data that Spotify has to provide under Article 15 of the GDPR. If you would like more information about how we process your personal data, you can contact us.
+Rectification
+Request that we amend or update your personal data where it’s inaccurate or incomplete.
+You can edit your User Data under ‘Edit profile’ in your account or by contacting us.
+Erasure
+Request that we erase certain of your personal data.
+
+For example, you can ask us to erase personal data:
+
+that we no longer need for the purpose it was collected for
+that we process based on the legal basis of consent, and you withdraw your consent
+when you object (see section ‘Object’ below) and
+you make a justified objection, or
+you object to direct marketing
+
+There are situations where Spotify is unable to delete your data, for example when:
+
+it’s still necessary to process the data for the purpose we collected it for
+Spotify’s interest in using the data overrides your interest in having it deleted. For example, where we need the data to protect our services from fraud
+Spotify has a legal obligation to keep the data, or
+Spotify needs the data to establish, exercise or defend legal claims. For example, if there’s an unresolved issue relating to your account
+There are several ways you can erase personal data from Spotify:
+
+to remove audio content from your profile select the relevant content and choose to remove it. For example, you can remove playlists from your profile, or remove a track from your playlist
+to request erasure of your other personal data from Spotify, follow the steps on our support page. This data includes your User Data, Usage Data and other data listed in Section 3 ‘Personal data we collect about you’
+you can also contact us to request erasure
+Restriction
+Request that we stop processing all or some of your personal data.
+
+You can do this if:
+
+your personal data is inaccurate
+our processing is unlawful
+we do not need your information for a specific purpose, or
+you object to our processing and we are assessing your objection request. See section ‘Object’ below
+
+You can request that we stop this processing temporarily or permanently.
+You can exercise your right to restriction by contacting us.
+Object
+Object to us processing your personal data.
+
+You can do this if:
+
+Spotify is processing your personal data on the legal basis of legitimate interests, or
+Spotify is processing your personal data for tailored advertising
+To exercise your right to object, you can:
+
+use controls on the Spotify Service to switch off or adjust some features which process your personal data. See the end of this section on how you can control tailored advertising
+contact us
+Data portability
+Request a copy of your personal data in electronic format and the right to transmit that personal data for use in another party’s service.
+
+You can request us to transmit your data when we are processing your personal data on the legal bases of consent or performance of contract. However Spotify will try to honour any request to the extent possible.
+For information about how to exercise the right to portability, see ‘Access’ above.
+Not be subject to automated decision making
+Not be subject to a decision based solely on automated decision making (decisions without human involvement), including profiling, where the decision would have a legal effect on you or produce a similarly significant effect.
+Spotify does not carry out this type of automated decision making in the Spotify Service.
+Withdrawal of consent
+Withdraw your consent to us collecting or using your personal data.
+
+You can do this if Spotify is processing your personal data on the legal basis of consent.
+To withdraw your consent, you can:
+
+adjust the relevant control on Spotify
+contact us
+Right to lodge a complaint
+Contact the Swedish Authority for Privacy Protection or your local data protection authority about any questions or concerns.
+You can find the Swedish Authority’s details here. You can also go to the website of your local data protection authority.
+Tailored advertising controls
+What is tailored advertising?
+This is when we use information about you to tailor ads to be more relevant to you. This is also known as interest based advertising.
+An example of tailored advertising is when an advertising partner has information suggesting you like cars. This could enable us to show you ads about cars.
+How to control tailored advertising:
+You can control tailored advertising on your Account Privacy page under 'Tailored Ads'.
+You can also control tailored advertising for some podcasts using the link in the episode's show description. This applies where the content provider inserts advertising into the podcast to fund it. The hosting provider, which might not be Spotify, manages these controls for the podcast.
+If you are 'opted out' of Tailored Ads on your Account Privacy page, you may still get advertising. This can include on our free Service Option, as well as our paid Service Option, as applicable (for example, advertising in podcasts). This type of advertising is based on your registration information and what you are currently listening to on our services. For example, if you are listening to a cooking podcast, you may hear an ad for a food processor.
+3. Personal data we collect about you
+These tables set out the categories of personal data we collect from you. You can also watch our video about Personal Data at Spotify.
+Collected when you sign up for the Spotify Service
+or when you update your account
+Category
+Description
+User Data
+Personal data that we need to create your Spotify account and that enables you to use the Spotify Service.
+
+The type of data collected and used depends on the type of Service Option you have. It also depends on how you create your account, the country you are in, and if you use third party services to sign in. This may include your:
+profile name
+email address
+password
+phone number
+date of birth
+gender
+street address (see further details below)
+country
+university/college (for Spotify Premium Student)
+
+We receive some of this data from you e.g. from the sign up form or account page.
+
+We also collect some of this data from your device e.g. country or region. For more information about how we collect and use this data, see ‘Your general (non-precise) location’ in the Usage Data category.
+Street Address Data
+We may ask for and process your street address for the following reasons:
+
+to check eligibility for a Service Option
+to deliver notices which are required by law
+to deliver support options
+for billing and tax administration
+to deliver physical goods or gifts which you have requested
+
+In some cases, we may use a third party application to help you verify your address, such as Google Maps.
+Collected through your use of the Spotify Service
+Categories
+Description
+Usage Data
+
+Personal data collected and processed about you when you’re accessing or using the Spotify Service.
+
+There are a few types of information this includes, listed in the following sections.
+
+
+Information about how you use Spotify
+
+Examples include:
+
+information about your Spotify Service Option
+your actions with the Spotify Service (including date and time), such as:
+search queries
+streaming history
+playlists you create
+your library
+browsing history
+account settings
+interactions with other Spotify users
+your use of third party services, devices and applications in connection with the Spotify Service
+inferences (i.e., our understanding) of your interests and preferences based on your usage of the Spotify Service
+content you provide when participating in Spotify promotions, such as contests or sweepstakes
+content you post to any part of the Spotify Service. For example: images, audio, text, titles, descriptions, communications, and other types of content
+Your technical data
+
+Examples include:
+
+URL information
+online identifiers such as cookie data and IP addresses
+information about the devices you use such as:
+device IDs
+network connection type (e.g. wifi, 4G, LTE, Bluetooth)
+provider
+network and device performance
+browser type
+language
+information enabling digital rights management
+operating system
+Spotify application version
+information which enables us to discover and connect with third party devices and applications. Examples of this information are the device name, device identifiers, brand and version. Examples of third party devices and applications are:
+devices on your wifi network (such as speakers) which can connect to the Spotify Service
+devices your operating system makes available when connecting via Bluetooth, plugin, and installation
+Spotify partner applications to determine whether the application is installed on your device
+
+Your general (non-precise) location
+
+Your general location includes country, region or state. We may learn this from technical data (e.g. your IP address, language setting of your device) or payment currency.
+
+We need this to:
+
+meet geographic requirements in our agreements with the owners of content on the Spotify Service
+deliver content and advertising that’s relevant to you
+
+Your device sensor data
+
+Motion-generated or orientation-generated device sensor data if needed to provide features of the Spotify Service that require this data. This is data which your device collects about the way you move or hold your device.
+Additional data you may choose to give us
+Categories
+Description
+Voice Data
+
+If voice features are available in your market and where you’ve chosen to use a voice feature, we collect and process voice data. Voice data means audio recordings of your voice and transcripts of those recordings.
+
+For more information on how different voice features work, and how you can control and turn them off, see our Voice Control Policy.
+Payment and Purchase Data
+If you make any purchases from Spotify or sign up for a paid Service Option or a trial, we will need to process your payment data.
+
+The exact personal data collected and used will vary depending on the payment method. It will include information such as:
+
+name
+date of birth
+payment method type (e.g. credit or debit card)
+if using a debit or credit card, the card type, expiration date, and certain digits of your card number Note: For security, we never store your full card number
+ZIP/postal code
+mobile phone number
+details of your purchase and payment history
+Survey and Research Data
+When you respond to a survey or take part in user research, we collect and use the personal data you provide.
+We receive some of the data mentioned above from third parties. The below table describes the categories of those third parties.
+Third party sources that we receive your data from
+Categories of third parties
+Description
+Data categories
+Authentication partners
+If you register for or log into the Spotify Service using another service, that service will send your information to us. This information helps create your account with us.
+User Data
+Third party applications, services and devices you connect to your Spotify account
+If you connect your Spotify account to a third party application, service or device, we may collect and use information from them. This collection is to make the integration possible.
+
+These third party apps, services or devices may include:
+
+social media
+devices including:
+audio (e.g. speakers and headphones)
+smart watches
+televisions
+mobile phones and tablets
+automotive (e.g. cars)
+games consoles
+services or platforms such as voice assistants or content platforms
+
+We’ll ask your permission before we collect your information from certain third parties.
+User Data
+
+Usage Data
+Technical service partners
+We work with technical service partners that give us certain data. This includes mapping IP addresses to non-precise location data (e.g., country or region, city, state).
+
+This makes it possible for Spotify to provide the Spotify Service, content, and features.
+
+We also work with security service providers who help us protect user accounts.
+User Data
+
+Usage Data
+Payment partners and Merchants
+If you choose to pay through third parties (e.g. telco carriers) or by invoice, we may get data from our payment partners.
+
+This allows us to:
+
+send you invoices
+process your payment
+give you what you’ve purchased
+
+If we direct you to a merchant, we receive data from the merchant that is related to your purchase. For example, we might direct you to an artist’s merchandise store on a third party platform or to a third party ticketing website.
+
+Receiving this data allows us to:
+
+calculate any commissions owed to us
+analyse the effectiveness of our partnership with these merchant partners
+understand your interests
+Payment and Purchase Data
+Advertising and marketing partners
+We receive inferences from certain advertising or marketing partners. These inferences are the partners’ understanding of your interests and preferences.
+
+This allows us to deliver more relevant ads and marketing.
+Usage Data
+Acquired companies
+We may receive data about you from companies we acquire. This is to enhance our services, products, and offerings.
+User Data
+
+Usage Data
+If you download the Spotify mobile app and try Spotify using a logged out user experience, we will collect limited information about your usage of the Spotify Service, including Usage Data. We do this to understand how you are accessing and using the Service. We also do this to ensure we provide the right experience for you, for example based on your country or region. If you decide to create a Spotify account to experience our service in full, then we will combine this data with your Spotify account data.
+4. Our purpose for using your personal data
+The table below sets out:
+our purpose for processing your personal data
+our legal justifications (each called a 'legal basis') under data protection law, for each purpose
+categories of personal data which we use for each purpose. See more about these categories in Section 3 'Personal data we collect about you'
+You can also watch our video about Personal Data at Spotify.
+Here is a general explanation of each 'legal basis' to help you understand the table:
+Performance of a Contract: When it's necessary for Spotify (or a third party) to process your personal data to:
+comply with obligations under a contract with you. This includes Spotify's obligations under the Terms of Use to provide the Spotify Service to you, or
+verify information before a new contract with you begins.
+Legitimate Interest: When Spotify or a third party has an interest in using your personal data in a certain way, which is necessary and justified considering any possible risks to you and other Spotify users. For example, using your Usage Data to improve the Spotify Service for all users. Contact us if you want to understand a specific justification.
+Consent: When Spotify asks you to actively indicate your agreement to Spotify's use of your personal data for a certain purpose.
+Compliance with Legal Obligations: When Spotify must process your personal data to comply with a law.
+Purpose for processing your data
+Legal basis that permits the purpose
+Categories of personal data used for the purpose
+To provide the Spotify Service in accordance with our contract with you.
+
+For example, when we use your personal data to:
+
+set up an account for you
+personalise your account, or
+provide the Spotify app when you download it onto your device
+Performance of a Contract
+
+
+
+User Data
+Street Address Data
+Usage Data
+Voice Data
+Payment and Purchase Data
+To provide further parts of the Spotify Service.
+
+For example, when we use your personal data to enable you to share a link to Spotify content with someone else.
+Legitimate Interest
+
+Our legitimate interests here include:
+
+keeping the Spotify Service running and functional
+allowing users to access and use the Spotify Service
+User Data
+Street Address Data
+Usage Data
+Voice Data
+Payment and Purchase Data
+To provide certain additional voluntary features of the Spotify Service. When this is the case, we will clearly ask for your consent.
+Consent
+User Data
+Usage Data
+Survey and Research Data
+Payment and Purchase Data
+To diagnose, troubleshoot, and fix issues with the Spotify Service.
+Performance of a Contract
+
+User Data
+Usage Data
+To evaluate and develop new features, technologies, and improvements to the Spotify Service.
+
+For example:
+
+we use personal data to develop and improve our personalised recommendation algorithms
+we analyse how our users react to a particular new feature and see whether we should make any changes
+Legitimate Interest
+
+Our legitimate interests here include developing and improving products and features for our users.
+User Data
+Usage Data
+Voice Data
+Survey and Research Data
+For marketing or advertising where the law requires us to collect your consent.
+
+For example, when we use cookies to understand your interests or the law requires consent for email marketing.
+
+
+Consent
+User Data
+Usage Data
+Survey and Research Data
+For other marketing, promotion and advertising purposes where the law does not require consent.
+
+For example, when we use your personal data to tailor advertising to your interests.
+
+
+Legitimate Interest
+
+Our legitimate interests here include using advertising to fund the Spotify Service, so that we can offer much of it for free.
+User Data
+Usage Data
+Survey and Research Data
+To comply with a legal obligation that we are subject to.
+
+This might be:
+
+an obligation under the law of the country / region you are in
+Swedish law (because of our headquarters in Sweden), or
+EU law that applies to us
+
+For example, when we use your date of birth when required for age verification purposes.
+Compliance with legal obligations
+
+User Data
+Street Address Data
+Usage Data
+Voice Data
+Payment and Purchase Data
+Survey and Research Data
+To comply with a request from law enforcement, courts, or other competent authorities.
+
+
+Compliance with legal obligations, and legitimate interest
+Our legitimate interests here include assisting law enforcement authorities to prevent or detect serious crime.
+User Data
+Street Address Data
+Usage Data
+Voice Data
+Payment and Purchase Data
+Survey and Research Data
+To fulfil contractual obligations with third parties.
+
+For example, when we provide pseudonymised data about our users’ listening because we have an agreement with a Spotify rightsholder to do so.
+
+Pseudonymised data means that your data is identified by a code rather than your name or other directly identifying information.
+
+
+Legitimate Interest
+
+Our legitimate interests here include:
+
+maintaining our relationships with artists so that we can provide the Spotify Service
+maintaining our relationships with other third parties for the same reason
+User Data
+Usage Data
+Voice Data
+Payment and Purchase Data
+To take appropriate action with reports of intellectual property infringement and inappropriate content.
+Legitimate Interest
+
+Our legitimate interests here include protecting intellectual property and original content.
+User Data
+Usage Data
+Voice Data
+Payment and Purchase Data
+To establish, exercise, or defend legal claims.
+
+For example, if we are involved in litigation and we need to provide information to our lawyers in relation to that legal case.
+Legitimate Interest
+
+Our legitimate interests here include:
+
+seeking legal advice
+protecting ourselves, our users or others in legal proceedings
+User Data
+Street Address Data
+Usage Data
+Voice Data
+Payment and Purchase Data
+Survey and Research Data
+To conduct business planning, reporting, and forecasting.
+
+For example, when we look at aggregated user data like the number of new sign ups in a country in order to plan new locations to launch our products and features in.
+Legitimate Interest
+
+Our legitimate interests here include researching and planning so that we can keep running our business successfully.
+User Data
+Usage Data
+Payment and Purchase Data
+To process your payment.
+
+For example, when we use your personal data to let you purchase a Spotify subscription.
+Performance of a Contract, and consent
+
+
+User Data
+Payment and Purchase Data
+Street Address Data
+To keep the Spotify Service secure and to detect and prevent fraud.
+
+For example, when we analyse Usage Data to check for fraudulent use of the Spotify Service.
+Legitimate Interest
+
+Our legitimate interests here include protecting the Spotify Service and our users against fraud and other illegal activity.
+User Data
+Street Address Data
+Usage Data
+Payment and Purchase Data
+To conduct research and surveys.
+
+For example, when we contact our users to ask for your feedback.
+Legitimate Interest
+
+Our legitimate interests here include to understand more about how users think about and use the Spotify Service.
+User Data
+Usage Data
+Voice Data
+Survey and Research Data
+5. Sharing your personal data
+This section sets out who receives personal data which is collected or generated through your use of the Spotify Service.
+Publicly available information
+The following personal data will always be publicly available on the Spotify Service (except to any user you have blocked):
+your profile name
+your profile photo
+your public playlists
+other content you post on the Spotify Service, and any associated titles, descriptions and images
+who you follow on the Spotify Service
+who follows you on the Spotify Service
+You or another user can share certain information on third party services, like social media or messaging platforms. This includes:
+your profile
+any content you post on Spotify and details about that content
+your playlists and any associated titles, descriptions and images
+When this sharing occurs, the third party service may store a copy of it to support their features.
+Personal data you may choose to share
+We will only share the following personal data with those outlined in the table below:
+where you have chosen to use a Spotify Service feature, or a third party application, service or device, and we need to share personal data to enable this, or
+if you otherwise grant us your permission to share the personal data. For example, you can do it by selecting the appropriate setting in the Spotify Service or by giving your consent
+Categories of recipients
+Categories of data you can choose to share
+Reason for sharing
+Third party applications, services and devices you connect to your Spotify account
+User Data
+Usage Data
+
+To connect your Spotify account, or so that you can use the Spotify Service in connection with third party applications, services or devices.
+
+Examples of such third party applications, services and devices include:
+
+social media applications
+speaker devices
+televisions
+automotive platforms
+voice assistants
+
+You can see and remove many third party connections under ‘Apps’ in your account.
+Support community
+User Data
+To enable you to use the Spotify Support Community service.
+
+When you register for an account on the Spotify Support Community, we’ll ask you to create a profile name. This will be publicly displayed to anyone who uses the Spotify Support Community. We’ll also display any questions or comments you post.
+Other Spotify users
+User Data
+Usage Data
+Voice Data
+To share information about your use of the Spotify Service with other Spotify users. These could include your followers on Spotify.
+
+For example, under ‘Social’ settings you can choose to share your recently played artists and your playlists on your profile. You can also choose to create or join a shared playlist with other users. Shared playlists give you social recommendations based on your listening activity.
+Artists and record labels
+User Data
+To receive news or promotional offers from artists, record labels or other partners.
+
+You may choose to share your User Data for this purpose. You’ll always have the option to change your mind and withdraw your consent at any time.
+Information we may share
+See this table for details of who we share to and why.
+Categories of recipients
+Categories of data
+Reason for sharing
+Service providers
+User Data
+Street Address Data
+Usage Data
+Voice Data
+Payment and Purchase Data
+Survey and Research Data
+So they can provide their services to Spotify.
+
+These service providers include those we hire to:
+
+give customer support
+operate the technical infrastructure we need to provide the Spotify Service
+assist in protecting and securing our systems and services (e.g. Google’s reCAPTCHA)
+help market Spotify’s (and our partners’) products, services, events and promotions
+Payment partners
+User Data
+Payment and Purchase Data
+So they can process your payments, and for anti-fraud purposes.
+Advertising partners
+User Data
+Usage Data
+So they can help us deliver more relevant advertising to you on the Spotify Service, and help measure the effectiveness of ads.
+
+For example, our ad partners help us facilitate tailored advertising.
+Marketing Partners
+User Data
+Usage Data
+To promote Spotify with our partners. We share certain User Data and Usage Data with these partners where necessary to:
+
+enable you to participate in Spotify promotions, including trials or other bundled offers
+to promote Spotify in media and advertising published on other online services
+help us and our partners to measure the effectiveness of Spotify promotions
+
+Examples of partners include:
+
+marketing or sponsorship partners
+websites and mobile apps who sell us advertising space on their services
+device, app and mobile partners who also offer Spotify promotions
+
+Our partners may also combine the personal data we share with them with other data they collect about you, e.g. your use of their services. We and our partners may use this information to present you with offers, promotions, or other marketing that we think you’ll find relevant.
+Hosting Platforms
+Usage Data
+Hosting platforms host podcasts so that they can deliver them to you. We share certain data, such as your IP address, with the hosting platforms when you play a podcast. We also allow you to stream podcasts available from other hosting platforms not owned by Spotify.
+
+Podcast providers should explain in the show or episode description which platform is hosting the podcast. See the hosting platform’s own privacy policy for how they use data shared with them.
+Academic researchers
+User Data
+Usage Data
+For activities such as statistical analysis and academic study, but only in a pseudonymised format.
+Spotify group companies, including companies that Spotify acquires
+User Data
+Street Address Data
+Usage Data
+Voice Data
+Payment and Purchase Data
+Survey and Research Data
+
+We will share your data amongst Spotify group companies to carry out our daily business operations and so we can maintain, improve and provide the Spotify Service and acquired companies’ services to you.
+
+For example:
+
+enabling our employees who work for different group companies to develop and improve features for the Spotify Service
+sharing data with our measurement companies to measure the effectiveness of ad campaigns that run on the Spotify Service
+sharing data with our podcast companies to better understand user listening trends
+Law enforcement and other authorities, or other parties to litigation
+User Data
+Usage Data
+When we believe in good faith it’s necessary for us to do so, for example:
+
+to comply with a legal obligation
+to respond to a valid legal process (such as a search warrant, court order, or subpoena)
+for our own or a third party’s justifiable interest, relating to:
+national security
+law enforcement
+litigation (a court case)
+criminal investigation
+protecting someone’s safety
+preventing death or imminent bodily harm
+Purchasers of our business
+User Data
+Street Address Data
+Usage Data
+Voice Data
+Payment and Purchase Data
+Survey and Research Data
+If we were to sell or negotiate to sell our business to a buyer or possible buyer.
+
+In this case, we may transfer your personal data to a successor or affiliate as part of that transaction.
+6. Data retention
+We keep your personal data only as long as necessary to provide you with the Spotify Service and for Spotify's legitimate and essential business purposes, such as:
+maintaining the performance of the Spotify Service
+making data-driven business decisions about new features and offerings
+complying with our legal obligations
+resolving disputes
+Here are some of the categories of our retention periods, and the criteria we use to determine them:
+Data retained until you remove it
+It's your right to request that we delete certain of your personal data. See the section on 'Erasure' in Section 2 'Your personal data rights and controls' for more information, and the circumstances in which we can act on your request.
+You can also delete certain personal data directly from the Spotify Service: for example, you can edit or delete your profile picture. Where users are able to see and update the personal data themselves, we keep the information for as long as the user chooses unless one of the limited purposes described below applies.
+Data that expires after a specific period of time
+We have set certain retention periods so that some data expires after a specific period of time. For example, personal data you may input as part of search queries is generally deleted after 90 days.
+Data retained until your Spotify account is deleted
+We keep some data until your Spotify account is deleted. Examples of this include your Spotify username and profile information. We also typically keep streaming history for the life of an account, for example, to provide retrospective playlists that users enjoy and personalised recommendations that take listening habits into account (for example, Your Time Capsule or Your Summer Rewind). When your Spotify account is deleted, this category of your data is deleted or de-identified.
+Data retained for extended time periods for limited purposes
+After your account is deleted, we keep some data for a longer time period but for very limited purposes. For example, we may be subject to legal or contractual obligations that require this. These may include mandatory data retention laws, government orders to preserve data relevant to an investigation, or data kept for the purposes of litigation. We may also keep data that has been removed from the Spotify Service for a limited period of time. This could be:
+to help ensure user safety, or
+to protect against harmful content on our platform.
+This helps us investigate potential breaches of our User Guidelines and Platform Rules. On the other hand, we will remove unlawful content if the law requires us to do so.
+7. Transfer to other countries
+Because of the global nature of our business, your personal data will be shared internationally among Spotify group companies, subcontractors and partners when carrying out the activities described in this Policy. They may process your data in countries whose data protection laws are not considered to be as strong as EU laws or the laws which apply where you live. For example, they may not give you the same rights over your data.
+Whenever we transfer personal data internationally, we use tools to:
+make sure the data transfer complies with applicable law
+help to give your data the same level of protection as it has in the EU
+To ensure each data transfer complies with applicable EU legislation, we use the following legal mechanisms:
+Standard Contractual Clauses ('SCCs'). These clauses require the other party to protect your data and to provide you with EU-level rights and protections. For example, we use SCCs to transfer the personal data described in Section 3 'Personal data we collect about you' to our hosting provider which uses servers in the US. You can exercise your rights under the Standard Contractual Clauses by contacting us or the third party who processes your personal data.
+Adequacy Decisions. This means that we transfer personal data to countries outside of the European Economic Area which have adequate laws to protect personal data, as determined by the European Commission. For example, we transfer the personal data described in Section 3 'Personal data we collect about you' to vendors based in the United Kingdom, Canada, Japan, Republic of Korea and Switzerland.
+We also identify and use additional protections as appropriate for each data transfer. For example, we use:
+technical protections, such as encryption and pseudonymisation
+policies and processes to challenge disproportionate or unlawful government authority requests
+8. Keeping your personal data safe
+We're committed to protecting our users' personal data. We put in place appropriate technical and organisational measures to help protect the security of your personal data. However, be aware that no system is ever completely secure.
+We have put various safeguards in place including pseudonymisation, encryption such as Transport Layer Security (TLS) and AES, access, and retention policies to guard against unauthorised access and unnecessary retention of personal data in our systems. In addition, personal data stored in our computer systems are secured by physical security measures.
+To protect your user account, we encourage you to:
+use a strong password which you only use for your Spotify account
+never share your password with anyone
+limit access to your computer and browser
+log out once you have finished using the Spotify Service on a shared device
+read more detail on protecting your account
+You can log out of Spotify in multiple places at once by using the 'Sign out everywhere' function on your account page.
+If other individuals have access to your Spotify account, then they can access personal data, controls and the Spotify Service available in your account. For example, you might have allowed someone to use your account on a shared device.
+It's your responsibility to only allow individuals to use your account where you're comfortable sharing this personal data with them. Anyone else's use of your Spotify account may impact your personalised recommendations and be included in your data download.
+9. Children
+Note: This Policy doesn't apply to Spotify Kids unless the Spotify Kids Privacy Policy says so. Spotify Kids is a separate Spotify application.
+The Spotify Service has a minimum 'Age Limit' in each country or region. The Spotify Service is not directed to children whose age:
+is under the age of 13 years
+makes it illegal to process their personal data, or
+requires parental consent to process their personal data
+We do not knowingly collect or use personal data from children under the applicable Age Limit. If you're under the Age Limit, do not use the Spotify Service, and do not provide any personal data to us. Instead, we recommend using a Spotify Kids account.
+If you're a parent of a child under the Age Limit and become aware that your child has provided personal data to Spotify, contact us.
+If we learn that we've collected the personal data of a child under the applicable Age Limit, we'll take reasonable steps to delete the personal data. This may require us to delete the Spotify account for that child.
+When using a shared device on the main Spotify Service, be cautious about playing or recommending any inappropriate content to individuals under 18 years old.
+10. Changes to this Policy
+We may occasionally make changes to this Policy.
+When we make material changes to this Policy, we'll provide you with prominent notice as appropriate under the circumstances. For example, we may display a prominent notice within the Spotify Service or send you an email or device notification.
+11. How to contact us
+For any questions or concerns about this Policy, contact our Grievance Officer/Data Protection Officer any one of these ways:
+email privacy@spotify.com
+write to us at: Spotify, Regeringsgatan 19, 111 53 Stockholm, Sweden
+For the purposes of the GDPR, Spotify AB is the data controller of personal data processed under this Policy.
+© Spotify
+Spotify
+COMPANY
+About
+Jobs
+For the Record
+COMMUNITIES
+For Artists
+Developers
+Advertising
+Investors
+Vendors
+USEFUL LINKS
+Support
+Web Player
+Free Mobile App
+SPOTIFY PLANS
+Premium Individual
+Premium Duo
+Premium Family
+Premium Student
+Spotify Free
+India (English)
+Legal
+Safety & Privacy Center
+Privacy Policy
+Cookies
+About Ads
+Accessibility
+© 2025 Spotify AB
+We andour partners use cookies to personalize your experience, to show you ads based on your interests, and for measurement and analytics purposes. By using our website and services, you agree to our use of cookies as described in ourCookie Policy.
+
+================================================================================
+
+Page: https://www.spotify.com/in-en/accessibility/
+Content:
+भारत (हिन्दी)
+✕
+Close
+SKIP TO CONTENT
+Spotify
+Menu
+Accessibility Center
+Connecting creativity, accessibility, and inspiration for all.
+Accessibility statement
+At Spotify, we celebrate human creativity and strive for our platform to be usable by all people, including a million artists and billions of listeners. By learning from experts and employing people with lived experiences in accessibility, we work to make every encounter with our products inclusive. Together, we aim to empower everyone to create, discover, and be inspired.
+Spotify's commitment
+Spotify Joins the Valuable 500 With a Commitment to Disability Inclusion
+Accessibility feedback
+For any inquiries, such as account access, payments, and technical issues, visit our support site or contact Customer Support.
+We are committed to collecting accessibility feedback from individuals who may be experiencing difficulties related to one of the following areas:
+Content accessibility, for example, "I can't find lyrics for songs" or "I have trouble accessing podcast transcripts"
+Digital accessibility, for example, "I can't use my assistive technology on the website or app"
+Feedback form
+To submit anonymous feedback, leave the email field blank and do not provide any details that could identify you in other parts of the form.
+Please only provide details of your disability which are relevant to your feedback.
+The designated position for receiving accessibility feedback is: the Program Manager for the Accessibility Team.
+Email(Optional)
+Issue type
+Select content accessibility for issues like having trouble accessing podcast transcripts or digital accessibility for issues using assistive technologies on our apps.
+Content accessibility
+Digital accessibility
+Subject
+Description
+Privacy Consent
+I consent to Spotify using the information I submit in this form for the purposes of corresponding with me, investigating my feedback and improving the accessibility of the Spotify service. Details about how Spotify processes personal data can be found in our Privacy Policy. You can withdraw your consent at any time by contacting privacy@spotify.com.
+Submit
+Spotify
+COMPANY
+About
+Jobs
+For the Record
+COMMUNITIES
+For Artists
+Developers
+Advertising
+Investors
+Vendors
+USEFUL LINKS
+Support
+Web Player
+Free Mobile App
+SPOTIFY PLANS
+Premium Individual
+Premium Duo
+Premium Family
+Premium Student
+Spotify Free
+India (English)
+Legal
+Safety & Privacy Center
+Privacy Policy
+Cookies
+About Ads
+Accessibility
+© 2025 Spotify AB
+We andour partners use cookies to personalize your experience, to show you ads based on your interests, and for measurement and analytics purposes. By using our website and services, you agree to our use of cookies as described in ourCookie Policy.
+
+================================================================================
+
+Page: https://spotifyforvendors.com/
+Content:
+Spotify for Vendors
+Getting Started
+Getting Paid
+Using Coupa
+FAQ
+Contacts
+Spotify for Vendors
+An overview of procurement processes for all of Spotify’s vendors. You’ll find instructions and resources to answer most questions that will come up during the procurement process.
+Creating an account with Spotify on Coupa for the first time
+If this is your first time using Coupa you’ll need to register an account by following some simple steps.
+Learn more
+Setting up a new customer account with Coupa
+You already have a Spotify account set up, but need to create a new account for a new office to invoice against.
+Learn more
+Completing Spotify's Supplier Onboarding Questionnaire
+We can help guide you through the onboarding process, and give answers to some common questions.
+Learn more
+Setting up E-Invoicing
+When you first view orders, you will be prompted to set-up E-Invoicing.
+Learn more
+The purchase order process
+This is where Spotify’s purchase orders (PO) are located.
+Learn more
+Creating invoices
+Learn how to create invoices and credit memos
+Learn more
+Coupa Overview
+Information on the Coupa system, navigation and interface.
+Learn more
+FAQ
+Some commonly asked questions the Spotify team has received during the procurement process.
+Learn more
+Resources
+A collection of videos, documentation and walkthroughs from external sources.
+Learn more
+Spotify for Vendors
+Legal
+Privacy
+
+================================================================================
+
+Page: https://developer.spotify.com/
+Content:
+Skip to content
+Build with Spotify’s 100 million songs,
+5 million podcasts and much more
+See it in action
+Code tutorial
+1
+Get your top 5 tracks
+2
+Save the 5 songs in a playlist
+3
+Listen to the songs right here right now
+Footer
+DOCUMENTATION
+Web API
+Web Playback SDK
+Ads API
+iOS
+Android
+Embeds
+Commercial Hardware
+GUIDELINES
+Design
+Accessibility
+COMMUNITY
+News
+Forum
+LEGAL
+Developer Terms
+Developer Policy
+Compliance Tips
+Third Party Licenses
+Legal
+Cookies
+© 2025 Spotify AB
+We andour partners use cookies to personalize your experience, to show you ads based on your interests, and for measurement and analytics purposes. By using our website and services, you agree to our use of cookies as described in ourCookie Policy.
+
+================================================================================
+
+Page: https://artists.spotify.com/
+Content:
+Spotify for Artists
+Where your music
+is everything
+Develop your fanbase, build your business, and create the world around your music.
+Amplify your music
+Connect with fans
+Grow your business
+Understand your audience
+The 2024 numbers are in: new data, new takeaways
+Get the latest insights on Spotify royalties and the global streaming economy.
+Explore the data
+FEATURES
+Tools built for your music
+Grow your career while keeping your music at the center. With Spotify for Artists, you can amplify your reach, serve up videos, build pre-release hype, and sell merch and tickets – right where streaming happens.
+Amplify your music
+Turn up your music with Campaign Kit — a set of tools designed to drive meaningful metrics for artists and music marketers. Expand your reach and build lifelong fans.
+Marquee makes your new release unmissable with a full-screen recommendation.
+Showcase promotes your music on Spotify’s Home with a selected headline.
+Discovery Mode can give your music a boost in personalized playlists.
+Share your upcoming tracks with Spotify editors using playlist pitching.
+Explore Campaign Kit
+Connect with fans
+Invite listeners into your creative world. Customize your artist profile, create videos & visuals, and bring the story behind your music to life.
+Clips are short videos you create to connect with fans while keeping your music front-and-center.
+Add a Canvas – a short, looping visual – to each of your tracks on Spotify.
+Countdown Pages help you get fans hyped for your upcoming album.
+Your artist profile shows fans what you’re all about.
+Explore Video & Visuals
+Grow your business
+There are many ways to earn revenue as an artist on Spotify. While Loud & Clear is your source for data, resources, and transparency around streaming royalties, here are some other opportunities to explore.
+Sell and promote merch on Spotify, because music and merch are better together.
+List your concert and festival dates to make sure your fans never miss another show.
+Fan Support lets you collect tips, or rally listeners around a charitable cause.
+Explore Merch, Live, & More
+Understand your audience
+Dig into audience, playlist, and music data to help you reach your goals.
+Segments allow you to better understand the breakdown of your audience.
+Hone your marketing strategy with release engagement and listener conversion metrics.
+Fan Study is our ongoing report about fan behavior around the world.
+Explore analytics
+Hear from artists
+Anitta
+1 / 14
+New & noteworthy
+Countdown Pages
+Your ultimate pre-release destination is here.
+How Goth Babe Amplified New Releases and Gave New Life to His Catalog with Campaign Kit
+Indie electronic artist Goth Babe and his team used Campaign Kit to grow his audience ahead of his debut album release.
+Your next biggest fan could be one playlist away.
+Explore seven brand new Fan Study insights on Spotify playlists, discovery, and fueling fandom.
+The Complete Guide to Audience Segments
+From casual listeners to super fans: navigating Spotify's audience segments.
+Campaign Kit
+Learn about Campaign Kit – our suite of tools for artists and music marketers that brings together playlist pitching, Marquee, Discovery Mode, and Showcase – and get best practices from experts at Venice Music and mtheory.
+Ready to claim your Spotify for Artists account?
+Get started
+Spotify
+HELPFUL LINKS
+About
+Press & Media
+Providers
+Loud & Clear
+Contact Us
+CREATOR TOOLS
+Spotify for Creators
+Songwriting
+GET THE APP
+© 2025 Spotify AB
+Legal
+Privacy
+Cookies
+English
+
+================================================================================
+
+Page: https://www.spotify.com/in-en/family/#ref=spotifycom_footer_premium_family
+Content:
+भारत (हिन्दी)
+✕
+Close
+SKIP TO CONTENT
+Spotify
+Menu
+Premium Family
+Family members living under one roof can enjoy up to 6 Premium accounts. 2 months for ₹179.00, only ₹179.00/month after.
+Get started
+Terms and conditions apply. For families who reside at the same address.
+Listen together. Or listen separately.
+With separate accounts, you can all enjoy your own ad-free music listening without having to take turns.
+Best value for the family
+Family members under one roof can enjoy up to 6 Premium accounts. You’ll only pay ₹179.00 a month.
+Why get Premium Family?
+Play offline. Listen anywhere.
+Ad-free music listening. Enjoy nonstop music.
+Pick any track. Play what you love.
+Unlimited skips. Just hit next.
+Already got Spotify Premium?
+If anyone in your family already has a Spotify account, they can switch to Family and still keep all their
+Music
+Playlists
+Recommendations
+Parental controls
+Set explicit content filters for your family members on Premium, so you’re always in charge of what they can – and what they can’t – hear.
+Cancel anytime
+Premium Family not for you? No problem – you can cancel whenever you want.
+It’s easy to get Premium Family
+Sign up or log in with your existing account.
+Invite family members you live with to Premium.
+Family members accept the invitation at home, confirm their address, and that’s it – you’re part of the family. *
+* Family plan members must live at the same address to join Premium Family.
+Questions?
+We’ve got answers.
+Do we share an account, or do we each get our own?
+I’m already on Premium. What happens to all my saved music?
+How does the bill work? Do we split the cost?
+Can we only listen at home?
+Premium Family
+Family members living under one roof can enjoy up to 6 Premium accounts. 2 months for ₹179.00, only ₹179.00/month after.
+Get started
+Terms and conditions apply. For families who reside at the same address.
+Spotify
+COMPANY
+About
+Jobs
+For the Record
+COMMUNITIES
+For Artists
+Developers
+Advertising
+Investors
+Vendors
+USEFUL LINKS
+Support
+Web Player
+Free Mobile App
+SPOTIFY PLANS
+Premium Individual
+Premium Duo
+Premium Family
+Premium Student
+Spotify Free
+India (English)
+Legal
+Safety & Privacy Center
+Privacy Policy
+Cookies
+About Ads
+Accessibility
+© 2025 Spotify AB
+We andour partners use cookies to personalize your experience, to show you ads based on your interests, and for measurement and analytics purposes. By using our website and services, you agree to our use of cookies as described in ourCookie Policy.
+
+================================================================================
+
+Page: https://www.spotify.com/in-en/safetyandprivacy/
+Content:
+भारत (हिन्दी)
+✕
+Close
+SKIP TO CONTENT
+Spotify
+Menu
+Safety & Privacy Center
+Home
+Safety
+Privacy
+Regulatory and Transparency Reports
+Welcome
+Spotify is a digital music, podcast and audiobook service that gives you access to millions of songs and other content from creators all over the world. We are committed to providing a safe environment and protecting our users' privacy. In support of that endeavor, our global teams work around the clock to protect users on Spotify from harm, help keep their data safe and ensure the experience is enjoyable for everyone.
+Spotify
+COMPANY
+About
+Jobs
+For the Record
+COMMUNITIES
+For Artists
+Developers
+Advertising
+Investors
+Vendors
+USEFUL LINKS
+Support
+Web Player
+Free Mobile App
+SPOTIFY PLANS
+Premium Individual
+Premium Duo
+Premium Family
+Premium Student
+Spotify Free
+India (English)
+Legal
+Safety & Privacy Center
+Privacy Policy
+Cookies
+About Ads
+Accessibility
+© 2025 Spotify AB
+We andour partners use cookies to personalize your experience, to show you ads based on your interests, and for measurement and analytics purposes. By using our website and services, you agree to our use of cookies as described in ourCookie Policy.
+
+================================================================================
+
+Page: https://www.spotify.com/in-en/legal/
+Content:
+भारत (हिन्दी)
+✕
+Close
+SKIP TO CONTENT
+Spotify
+Menu
+Legal
+Terms and Conditions of Use
+Intellectual Property Policy
+Privacy Policy
+User Guidelines
+Premium Offer Terms
+Spotify Terms of Use
+1. Introduction
+2. The Spotify Service Provided by Us.
+3. Your Access to the Spotify Service
+4. Content and Intellectual Property Rights
+5. Customer Support, Information, Questions and Complaints
+6. Problems and Disputes
+7. About these Terms
+1. Introduction
+Please read these Terms of Use (these** "Terms**") carefully as they govern your access to Spotify's personalized services for streaming music and other content, including all of our websites and software applications that incorporate or link to these Terms (collectively, the "Spotify Service") and any music, videos, podcasts, or other material that is made available through the Spotify Service (the "Content").
+Access to the Spotify Service may be subject to additional terms and conditions presented by Spotify, which are hereby incorporated by this reference into these Terms.
+By signing up for, or otherwise accessing, the Spotify Service, you agree to these Terms. If you do not agree to these Terms, then you must not access the Spotify Service.
+Spotify Service Provider
+The Spotify Service is provided by Spotify AB, Regeringsgatan 19, 111 53, Stockholm, Sweden.
+Age and eligibility requirements
+In order to access the Spotify Service, you need to (1) be 13 years of age (or the equivalent minimum age in your home country) or older, (2) have parent or guardian consent if you are a minor in your home country; (3) have the power to enter a binding contract with us and not be barred from doing so under any applicable laws, and (4) reside in a country where the Service is available. You also promise that any registration information that you submit to Spotify is true, accurate, and complete, and you agree to keep it that way at all times. Furthermore, Spotify undertakes no liability in relation to a violation of these Terms by you. If you are a minor in your home country, your parent or guardian will need to enter into these Terms on your behalf. You can find additional information regarding minimum age requirements in the registration process. If you do not meet the minimum age requirements then Spotify will be unable to register you as a user.
+2. The Spotify Service Provided by Us.
+Spotify Service Options
+We provide numerous Spotify Service options. Certain Spotify Service options are provided free-of-charge, while other options require payment before they can be accessed (the "Paid Subscriptions"). We may also offer special promotional plans, memberships, or services, including offerings of third-party products and services. We are not responsible for the products and services provided by such third parties.
+The Unlimited Service may not be available to all users. We will explain which services are available to you when you are signing up for the services. If you cancel your subscription to the Unlimited Service, or if your subscription to the Unlimited Service is interrupted (for example, if you change your payment details), you may not be able to re-subscribe for the Unlimited Service. Note that the Unlimited Service may be discontinued in the future, in which case you will no longer be charged for the Service.
+Trials
+From time to time, we or others on our behalf may offer trials of Paid Subscriptions for a specified period without payment or at a reduced rate (a "Trial"). By accessing a Spotify Service via a Trial, you agree to the Spotify Premium Promotional Offer Terms.
+Third-Party Applications, Devices and Open Source Software
+The Spotify Service may be integrated with, or may otherwise interact with, third-party applications, websites, and services ("Third-Party Applications") and third-party personal computers, mobile handsets, tablets, wearable devices, speakers, and other devices ("Devices"). Your use of such Third-Party Applications and Devices may be subject to additional terms, conditions and policies provided to you by the applicable third party. Spotify does not guarantee that Third-Party Applications and Devices will be compatible with the Spotify Service.
+Service Limitations and Modifications
+We use reasonable care and skill to keep the Spotify Service operational and to provide you with a personalized, immersive audio experience. However, our service offerings and their availability may change from time to time and subject to applicable laws, without liability to you; for example:
+The Spotify Services may experience temporary interruptions due to technical difficulties, maintenance or testing, or updates, including those required to reflect changes in relevant laws and regulatory requirements.
+We aim to evolve and improve our Services constantly, and we may modify, suspend, or stop (permanently or temporarily) providing all of part of the Spotify Service (including particular functions, features, subscription plans and promotional offerings).
+Spotify has no obligation to provide any specific content through the Spotify Service, and Spotify or the applicable owners may remove particular songs, videos, podcasts, and other Content without notice.
+If you have prepaid fees directly to Spotify for a Paid Subscription that Spotify discontinues prior to the end of your Pre-Paid Period (as that term is defined in the Payments and cancellations section below), Spotify will refund you the prepaid fees for the Pre-Paid Period for any unused part of your then current Paid Subscription after such discontinuation. Your account and billing information must be up to date in order for us to refund you.
+Spotify has no liability to you, nor any obligation to provide a refund to you, in connection with internet or other service outages or failures that are caused by the actions of government authorities, other third parties or events beyond our control.
+3. Your Access to the Spotify Service
+Creating a Spotify account
+You may need to create a Spotify account to access all or part of the Spotify Service. Your username and password are for your personal access only and should be kept confidential. You understand that you are responsible for all access (including any unauthorized access) via your username and password. Notify our Customer Service team immediately if your username or password is lost or stolen, or if you believe there has been unauthorized access to your account.
+Spotify may reclaim, or require you to change, your username for any reason.
+Your rights to access the Spotify Service
+Access to the Spotify Services
+Subject to your compliance with these Terms (including any other applicable terms and conditions), we grant to you limited, non-exclusive, revocable permission to access the Spotify Service for your personal, non-commercial purpose (collectively, "Access"). This Access shall remain in effect unless and until terminated by you or Spotify. While accessing the Spotify Service, you may enjoy the Content for your own personal, non-commercial purpose. Except for the Access, Spotify grants no right, title or interest to you in the Content. You agree that you will not redistribute or transfer the Spotify Service or the Content.
+The Spotify software applications and the Content are not sold or transferred to you, and Spotify and/or its licensors retain ownership of all copies of the Spotify software applications and Content even after installation on your Devices.
+Spotify's Proprietary Rights
+The Spotify Service is the property of Spotify. The Content is the property of Spotify or Spotify's licensors. All Spotify trademarks, service marks, trade names, logos, domain names, and any other features of the Spotify brand ("Spotify Brand Features") are the sole property of Spotify or its licensors. These Terms do not grant you any rights to use any Spotify Brand Features whether for commercial or non-commercial use.
+You agree to abide by the Spotify User Guidelines and not to access the Spotify Service, or any part thereof in any manner not expressly permitted by these Terms.
+Payments and cancellation
+Billing
+You may purchase a Paid Subscription directly from Spotify or through a third party either by:
+● paying a subscription fee in advance on a monthly basis or some other recurring interval disclosed to you prior to your purchase; or
+● pre-payment giving you access to the Spotify Service for a specific time period ("Pre-Paid Period").
+Tax rates are calculated based on the information you provide and the applicable rate at the time of your monthly charge.
+If you purchase access to a Paid Subscription directly from Spotify, this is offered to you by Spotify India LLP and your transaction for the Paid Subscription is with Spotify India LLP, as a distributor of Spotify AB, and is subject to these Terms. For information on the security of the payment methods available for purchase of a Paid Subscription directly from Spotify and the contact information of these payment providers, please visit their website. If you purchase access to a Paid Subscription through a third party, separate terms and conditions with such third party may apply to your access of the Spotify Service in addition to these Terms. If you purchase a Paid Subscription using a code, gift card, pre-paid offer, or other offer provided or sold by or on behalf of Spotify for access to a Paid Subscription ("Codes"), you hereby agree to the Spotify Card Terms.
+Price and tax changes
+Spotify may from time to time change the price for the Paid Subscriptions, including recurring subscription fees, the Pre-Paid Period (for periods not yet paid), or Codes (defined above), and will communicate any price changes to you in advance on reasonable notice. Price changes will take effect at the start of the next subscription period following the date of the price change. Subject to applicable law, by continuing to access the Spotify Service after the price change takes effect, you will have accepted the new price. If you do not agree to a price change, you can reject the change by unsubscribing from the applicable Paid Subscription prior to the price change going into effect.
+Tax rates are based on the rates applicable at the time of your monthly charge. These amounts can change over time with local tax requirements in your country, state, territory or even city. Any change in Tax rate will be automatically applied based on the account information you provide
+Renewal and Cancellation
+With the exception of Paid Subscriptions for a Pre-Paid Period, your payment to Spotify or the third party through which you purchased the Paid Subscription will automatically renew at the end of the applicable subscription period, unless you cancel your Paid Subscription before the end of the then-current subscription period. Contact our Customer Support team here for instructions on how to cancel. The cancellation will take effect the day after the last day of the current subscription period, and you will be downgraded to the free version of the Spotify Service. We do not provide refunds or credits for any partial subscription periods, except as expressly stated in these Terms.
+If you have purchased a Paid Subscription using a Code, your subscription will automatically terminate at the end of the period stated in the Code, or when there is an insufficient pre-paid balance to pay for the Spotify Service.
+Withdrawal right
+If you sign up for a Trial, you agree that the withdrawal right for the Paid Subscription for which you are receiving a Trial ends fourteen (14) days after you start the Trial. If you don't cancel the Paid Subscription before the Trial ends, you lose your right of withdrawal and authorise Spotify to automatically charge you the agreed price each month until you cancel the Paid Subscription. For trials less than fourteen (14) days, you expressly consent to us providing you with the paid service immediately after the end of your Trial and that from that point you lose your right of withdrawal.
+If you purchase a Paid Subscription with no Trial, you agree you have fourteen (14) days after your purchase to withdraw for any reason and must pay us for the services provided up until the time you tell us that you have changed your mind. . You expressly consent to us providing you with the service immediately following your purchase, that you lose your right of withdrawal, and authorise Spotify to charge you automatically each month until you cancel.
+User Guidelines
+We've established guidelines for accessing the Spotify Service, to make sure the Spotify Service stays enjoyable for everyone ("Spotify User Guidelines"). In accessing the Spotify Service, you must comply with the Spotify User Guidelines, as well as all applicable laws, rules, and regulation, and respect the intellectual property, privacy, and other rights of third parties.
+Brand Accounts
+If you establish a Spotify account on behalf of a company, organization, entity, or brand (a "Brand," and such account a "Brand Account"), the terms "you" and "your," as used throughout these Terms (including other Spotify terms and conditions incorporated by reference herein), apply to both you and the Brand.
+If you create a Brand Account, you represent and warrant that you are authorized to grant all permissions and licenses provided in these Terms (including any other applicable Spotify terms and conditions) and to bind the Brand to these Terms.
+A Brand may follow users and create and share playlists, provided that the Brand does not take any action that implies an endorsement or commercial relationship between the Brand and the followed user, artist, songwriter, or any other person, unless the Brand has independently obtained the rights to imply such an endorsement. In addition, Brands must be transparent to our users about disclosing any endorsements or consideration provided to artists, songwriters, users, or any other party and must comply with all applicable laws, regulations, and codes of practice when engaging in the foregoing practices.
+Export control and sanctions
+Spotify's products may be subject to U.S. export and re-export control laws and regulations or similar laws applicable in other jurisdictions, including the Export Administration Regulations ("EAR") maintained by the U.S. Department of Commerce, trade and economic sanctions maintained by the Treasury Department's Office of Foreign Assets Control ("OFAC"), and the International Traffic in Arms Regulations ("ITAR") maintained by the Department of State. You warrant that you are (1) not located in any country to which the United States has embargoed goods or has otherwise applied any economic sanctions; and (2) not a denied party as specified in any applicable export or re-export laws or regulations or similar laws applicable in other jurisdictions or otherwise listed on any U.S. government list of prohibited or restricted parties.
+You agree to comply with all applicable export and reexport control laws and regulations, including without limitation the EAR and trade and economic sanctions maintained by OFAC. Specifically, you agree not to – directly or indirectly – use, sell, export, reexport, transfer, divert, release, or otherwise dispose of any products, software, or technology (including products derived from or based on such technology) received from Spotify under these Terms to any destination, entity, or person or for any end-use prohibited by the EAR, trade and economic sanctions maintained by OFAC, or any applicable laws or regulations of the United States or any other jurisdiction without obtaining any required prior authorization from the competent government authorities as required by those laws and regulations.
+4. Content and Intellectual Property Rights
+User content
+The content you post on the service
+Spotify users may post, upload, or otherwise contribute content to the Spotify Service ("User Content"). For the avoidance of doubt, "User Content" includes all information, materials and other content that is added, created, uploaded, submitted, distributed, or posted to the Spotify Service (including to the Spotify Support Community) by users.
+You are solely responsible for all User Content that you post.
+You promise that, with respect to any User Content you post on Spotify, (1) you own or have the right to post such User Content; (2) such User Content, or its use by Spotify pursuant to the permission granted below, does not: (i) violate these Terms, applicable law, or the intellectual property or other rights of any third party; or (ii) such User Content does not imply any affiliation with or endorsement of you or your User Content by Spotify or any artist, band, label, or other individual or entity without the prior express written consent from Spotify or such individual or entity.
+In posting or sharing User Content or other information on the Spotify Service, please keep in mind that content and other information will be publicly accessible, and may be used and re-shared by others on the Spotify Service and across the web, so please use caution in posting or sharing on the Spotify Service, and be mindful of your account settings. Spotify is not responsible for what you or others post or share on the Spotify Service.
+Monitoring user content
+Spotify may, but has no obligation to, monitor or review User Content. Spotify reserves the right to remove or disable access to any User Content for any or no reason. Spotify may take these actions without prior notification to you.
+Permissions that you grant us
+User Content
+You retain ownership of your User Content when you post it to the Service. However, in order for us to make your User Content available on the Spotify Service, we do need a limited permission from you to that User Content. Accordingly, you hereby grant to Spotify a non-exclusive, transferable, sub-licensable, royalty-free, fully paid, irrevocable, worldwide permission to reproduce, make available, perform and display, translate, modify, create derivative works from, distribute, and otherwise use any such User Content through any medium, whether alone or in combination with other Content or materials, in any manner and by any means, method or technology, whether now known or hereafter created, in connection with the Spotify Service. Where applicable and to the extent permitted under applicable law, you also agree to waive, and not to enforce, any "moral rights" or equivalent rights, such as your right to be identified as the author of any User Content, including Feedback, and your right to object to derogatory treatment of such User Content.
+Feedback
+If you provide ideas, suggestions, or other feedback in connection with your access of the Spotify Service or any content ("Feedback"), such Feedback is not confidential and may be used by Spotify without restriction and without payment to you. Feedback is considered a type of User Content under these Terms.
+Your Device.
+You also grant to us the right (1) to allow the Spotify Service to use the processor, bandwidth, and storage hardware on your Device in order to facilitate the operation of the Spotify Service, (2) to provide advertising and other information to you, and to allow our business partners to do the same, as permitted in accordance with the Spotify Privacy Policy.
+Content experience
+In any part of the Spotify Service, the Content that you enjoy, including its selection and placement, may be influenced by commercial considerations, including Spotify's agreements with third parties.
+Some Content provided to, created by, or otherwise made available by Spotify (e.g., podcasts) may incorporate advertising, and Spotify is not responsible for any such advertising.
+Infringement claims
+Spotify respects the rights of intellectual property owners. If you believe that any Content infringes your copyright rights, please see the Spotify Copyright Policy.
+5. Customer Support, Information, Questions and Complaints
+Spotify Support Community
+The Spotify Support Community is a place for discussions and exchange of information, tips, and other materials related to the Spotify Service. By using the Spotify Support Community, you agree to the Community Terms.
+Customer Support, Information, Questions, Complaint
+For customer support with account- and payment-related questions ("Customer Support Queries"), please use Customer Support resources listed on the About Us section of our website.
+If you have any questions concerning the Spotify Service or these Terms (including any additional Spotify terms and conditions incorporated herein), please contact Spotify Customer Service by visiting the About Us section of our website.
+If you reside in the European Union, you can also file a complaint at the online platform for alternative dispute resolution (ODR-platform). You can find the ODR-platform through the following link: https://ec.europa.eu/consumers/odr.
+India Grievance Mechanism
+We have dedicated grievance mechanisms for India. Please contact us and provide all relevant information via the most appropriate mechanism below to reach the right support team directly and help us respond promptly. If you contact us via any other means, it may take us longer to receive and review your request.
+Content support: If you believe any content on our platform does not comply with our user guidelines, violates applicable law, or infringes your rights, you can report the content here. Please do not use this mechanism to serve legal process or a regulatory notice.
+Customer support: If you have any question or concern about your account or payments, please contact our customer service here. Please do not use this mechanism to submit requests relating to content on our platform.
+Data protection support: If you have any questions about our privacy policy, please contact our Data Protection Officer by emailing privacy@spotify.com or by writing to us at the address set out in our privacy policy.
+Service of legal process or regulatory notices: If you wish to serve a summons, court order, or government notice in India on us, you must use the below email address. Please do not contact us via the below for other user inquiries that are better suited to the mechanisms described above.
+Attention: Grievance Officer
+Email: GrievanceOfficer-India@spotify.com
+6. Problems and Disputes
+Suspending and terminating the Spotify Services
+These Terms will continue to apply to you until terminated by either you or Spotify. Spotify may terminate these Terms (including any additional terms and conditions incorporated herein) or suspend your access to the Spotify Service at any time if we believe you have breached any of these Terms, if we stop providing the Spotify Service or any material component thereof on reasonable notice to you, or as we believe necessary to comply with applicable law. If you or Spotify terminate these Terms, or if Spotify suspends your access to the Spotify Service, you agree that Spotify shall, subject to applicable laws, have no liability or responsibility to you, and (except as expressly provided in these Terms) Spotify will not refund any amounts that you have already paid. You may terminate these Terms at any time, in which case you may not continue accessing the Spotify Service. To learn how to terminate your Spotify account, please use the Customer Support resources on our About Us page.
+Sections 4 (Content and Intellectual Property Rights), 3 (Your Access to the Spotify Service), 2 (The Spotify Service Provided by Us), 6 (Problems and Disputes), 7 (About These Terms) herein, as well as any other sections of these Terms that, either explicitly or by their nature, must remain in effect even after termination of these Terms, shall survive termination.
+Warranty disclaimers
+Spotify will provide the Spotify Service using reasonable care and skill and in accordance with any specification of the Spotify Service provided by Spotify, however, subject to that, the Spotify Service is provided "as is" and "as available," without any warranties of any kind, whether express, implied, or statutory. Further, Spotify and all owners of the content disclaim any express, implied, and statutory warranties regarding the content, including warranties of satisfactory quality, merchantability, fitness for a particular purpose, or non-infringement. Neither Spotify nor any owner of content warrants that the Spotify Service or content is free of malware or other harmful components. In addition, Spotify makes no representation regarding, nor does it warrant or assume any responsibility for, any third-party applications (or the content thereof), user content, devices or any product or service advertised, promoted or offered by a third party on or through the Spotify Service or any hyperlinked website, and Spotify is not responsible for any transactions between you and any third-party providers of the foregoing. No advice or information whether oral or in writing obtained by you from Spotify shall create any warranty on behalf of Spotify. While accessing the Spotify Service, you may have access to explicit content filtering features, but use of these features may still result in some explicit content being served and you should not rely on such features to filter all explicit content. Content may be directly updated/uploaded on the Spotify Service by a third party and therefore we make no warranty that you will not come across content that might not suit your sensibilities and might be considered inappropriate by you. In such a scenario, you are free to discontinue or opt not to view/stream/consume such content. This section applies to the fullest extent permitted by applicable law.
+Some jurisdictions do not allow the exclusion of implied warranties or limitations on applicable statutory rights of a consumer, so the exclusion and limitations in this section may not apply to you and nothing will affect your statutory rights.
+Limitation of Liability and Time for Filing a Claim
+Subject to applicable law, you agree that your sole and exclusive remedy for any problems or dissatisfaction with the Spotify Service is to uninstall any Spotify software and to stop accessing the Spotify Service. You agree that Spotify has no obligation or liability arising from or related to third-party applications or the content thereof made available through or in connection with the Spotify Service, and while your relationship with such third-party applications may be governed by separate agreements with such third parties, your sole and exclusive remedy, as with respect to Spotify, for any problems or dissatisfaction with any third-party applications or the content thereof, is to uninstall or stop using such third-party applications.
+**In no event will Spotify, its officers, shareholders, employees, agents, directors, subsidiaries, affiliates, successors, assigns, suppliers, or licensors be liable for (1) any indirect, special, incidental, punitive, exemplary, or consequential damages; (2) any loss of use, data, business, or profits (whether direct or indirect), in all cases arising out of the use of or inability to access the Spotify Service, devices, third-party applications, or third-party application content; or (3) aggregate liability for all claims relating to the Spotify Service, third-party applications, or third-party application content more than the greater of (a) the amounts paid by you to Spotify during the twelve months prior to the first claim; or (b) $30.00. Any liability we do have for losses you suffer is strictly limited to losses that were reasonably foreseeable. **
+For clarification, these terms do not limit Spotify's liability for fraud, fraudulent misrepresentation, death or personal injury to the extent that applicable law would prohibit such a limitation and for any other liability that, by applicable law, may not be limited or excluded.
+**Except where such restriction is prohibited under applicable law, any claim arising under these terms must be commenced (by filing a demand for arbitration or filing an individual action under the arbitration agreement below) within one (1) year after the date the party asserting the claim first knows or reasonably should know of the act, omission, or default giving rise to the claim; and there shall be no right to any remedy for any claim not asserted within that time period. **
+Third Party Rights
+You acknowledge and agree that the owners of the Content and certain distributors (such as app store providers) are intended beneficiaries of these Terms and have the right to enforce these Terms directly against you. Other than as set out in this section, these Terms are not intended to grant rights to anyone except you and Spotify, and in no event shall these Terms create any third-party beneficiary rights.
+If you have downloaded any of our mobile software applications (each, an "App") from the Apple Inc. ("Apple") App Store or if you are using the App on an iOS device, you acknowledge that you have read, understood, and agree to the following notice regarding Apple. These Terms are between you and Spotify only, not with Apple, and Apple is not responsible for the Spotify Service and the content thereof. Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the Spotify Service. In the event of any failure of the Spotify Service to conform to any applicable warranty, you may notify Apple and Apple will refund the applicable purchase price for the App to you; and, to the maximum extent permitted by applicable law, Apple has no other warranty obligation whatsoever with respect to the Spotify Service. Apple is not responsible for addressing any claims by you or any third party relating to the Spotify Service or your possession or access of the Spotify Service, including: (1) product liability claims; (2) any claim that the Spotify Service fails to conform to any applicable legal or regulatory requirement; (3) claims arising under consumer protection or similar legislation; and (4) claims with respect to intellectual property infringement. Apple is not responsible for the investigation, defense, settlement, and discharge of any third-party claim that the Spotify Service or your possession and use of the App infringe that third party's intellectual property rights. You agree to comply with any applicable third-party terms, when accessing the Spotify Service. Apple, and Apple's subsidiaries, are third-party beneficiaries of these Terms, and upon your acceptance of these Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce these Terms against you as a third-party beneficiary of these Terms.
+Indemnification
+You agree to indemnify and hold Spotify harmless from and against any reasonably foreseeable direct losses, damages, and reasonable expenses (including reasonable attorney fees and costs) suffered or incurred by Spotify arising out of or related to: (1) your breach of any of these Terms (including any additional Spotify terms and conditions incorporated herein); (2) any User Content you post or otherwise contribute; (3) any activity in which you engage on or through the Spotify Service; and (4) your violation of any law or the rights of a third party.
+Governing Law, Mandatory Arbitration and Venue
+6.1 Governing Law / Jurisdiction
+Unless otherwise required by mandatory laws in your country of residence, the Agreements (and any non-contractual disputes/claims arising out of or in connection with them) are subject to the laws of the state or country listed below, without regard to choice or conflicts of law principles.
+Further, you and Spotify agree to the jurisdiction of the courts listed below to resolve any dispute, claim, or controversy that arises in connection with the Agreements (and any non-contractual disputes/claims arising out of or in connection with them), except where under applicable mandatory laws, you can choose to bring legal proceedings in your country of residence, or we are required to only bring legal proceedings in your country of residence
+Country or region Choice of Law Jurisdiction
+All other countries and regions in which Spotify is available.
+Sweden
+Exclusive; Courts of Sweden
+Bulgaria, Cyprus, Estonia, France, Hong Kong, Latvia, Lithuania, Luxembourg, Malta, Monaco, Norway, Philippines, Portugal, Slovakia, Spain, Turkey
+Laws of Sweden
+Non-exclusive; Courts of Sweden
+Brazil
+Laws of Brazil
+Exclusive; State and Federal Courts of São Paulo, State of São Paulo, Brazil
+Canada
+Not applicable to residents of Quebec: Laws of the Province of Ontario
+Residents of Quebec: Laws of the Province of Quebec, Canada
+Not applicable to residents of Quebec: Exclusive other than for the purpose of enforcing judgements; Courts of Ontario, Canada
+Residents of Quebec: Courts of Quebec, Canada
+Argentina, Bolivia, Chile, Colombia, Costa Rica, Dominican Republic, Ecuador, El Salvador, Guatemala, Honduras, Nicaragua, Panama, Paraguay, Peru, Uruguay
+State of California, United States
+Exclusive; State and Federal Courts of San Francisco County, CA or New York, NY
+United Kingdom
+Laws of England and Wales
+Exclusive
+6.2 CLASS ACTION WAIVER
+WHERE PERMITTED UNDER THE APPLICABLE LAW, YOU AND SPOTIFY AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE ACTION. Unless both you and Spotify agree, no arbitrator or judge may consolidate more than one person's claims or otherwise preside over any form of a representative or class proceeding.
+6.3 ARBITRATION
+If you are located in, are based in, have offices in, or do business in a jurisdiction in which this Section 6.3. is enforceable, the following mandatory arbitration provisions apply to you:
+6.3.1 Dispute resolution and arbitration
+You and Spotify agree that any dispute, claim, or controversy between you and Spotify arising in connection with or relating in any way to these Agreements or to your relationship with Spotify as a user of the Service (whether based in contract, tort, statute, fraud, misrepresentation, or any other legal theory, and whether the claims arise during or after the termination of the Agreements) will be determined by mandatory binding individual arbitration. Arbitration is more informal than a lawsuit in court. THERE IS NO JUDGE OR JURY IN ARBITRATION, AND COURT REVIEW OF AN ARBITRATION AWARD IS LIMITED. There may be more limited discovery than in court. The arbitrator must follow this agreement and can award the same damages and relief as a court (including attorney fees), except that the arbitrator may not award declaratory or injunctive relief benefiting anyone but the parties to the arbitration. This arbitration provision will survive termination of the Agreements.
+6.3.2 Exceptions
+Notwithstanding clause 6.3.1 above, you and Spotify both agree that nothing herein will be deemed to waive, preclude, or otherwise limit either of our rights, at any time, to (1) bring an individual action in a small claims court ,(2) pursue enforcement actions through applicable federal, state, or local agencies where such actions are available, (3) seek injunctive relief in a court of law, or (4) to file suit in a court of law to address intellectual property infringement claims.
+6.3.3 Arbitration rules
+Either you or we may start arbitration proceedings. Any arbitration between you and Spotify will be finally settled under the Rules of Arbitration of the International Chamber of Commerce (the "ICC") then in force (the "ICC Rules") by one or more arbitrators appointed in accordance with the ICC Rules, as modified by these Agreements, and will be administered by the International Court of Arbitration of the ICC.
+Any arbitration will be conducted in the English language and unless otherwise required by a mandatory law of a member state of the European Union or any other jurisdiction, the law to be applied in any arbitration shall be the law of [the relevant state or country described in clause 6.1], without regard to choice or conflicts of law principles.
+6.3.4 Time for filing
+Any arbitration must be commenced by filing a demand for arbitration within ONE (1) YEAR after the date the party asserting the claim first knows or reasonably should know of the act, omission, or default giving rise to the claim; and there shall be no right to any remedy for any claim not asserted within that time period. If applicable law prohibits a one-year limitation period for asserting claims, any claim must be asserted within the shortest time period permitted by applicable law.
+6.3.5 Notice; Process
+A party who intends to seek arbitration must first send a written notice of the dispute to the other, by certified mail or Federal Express (signature required), or in the event that we do not have a physical address on file for you, by electronic mail ("Notice"). Spotify's address for Notice is: [Spotify, Attn: General Counsel, 4 World Trade Center, 150 Greenwich Street, 62nd Floor, New York, New York 10007, USA]. The Notice must (1) describe the nature and basis of the claim or dispute; and (2) set forth the specific relief sought ("Demand"). We agree to use good faith efforts to resolve the claim directly, but if we do not reach an agreement to do so within 30 days after the Notice is received, you or Spotify may commence an arbitration proceeding. During the arbitration, the amount of any settlement offer made by you or Spotify shall not be disclosed to the arbitrator until after the arbitrator makes a final decision and award, if any. In the event our dispute is finally resolved through arbitration in your favor, Spotify shall pay you (1) the amount awarded by the arbitrator, if any, (2) the last written settlement amount offered by Spotify in settlement of the dispute prior to the arbitrator's award; or (3) $1,000.00, whichever is greater. All documents and information disclosed in the course of the arbitration shall be kept strictly confidential by the recipient and shall not be used by the recipient for any purpose other than for purposes of the arbitration or the enforcement of the arbitrator's decision and award and shall not be disclosed except in confidence to persons who have a need to know for such purposes or as required by applicable law.Except as required to enforce the arbitrator's decision and award, neither you nor Spotify shall make any public announcement or public comment or originate any publicity concerning the arbitration, including, but not limited to, the fact that the parties are in dispute, the existence of the arbitration, or any decision or award of the arbitrator.
+6.3.6 Modifications
+In the event that Spotify makes any future change to this arbitration provision (other than a change to Spotify's address for Notice), you may reject any such change by sending us written notice within 30 days of the change to Spotify's address for Notice, in which case your account with Spotify shall be immediately terminated and this arbitration provision, as in effect immediately prior to the amendments you reject, shall survive.
+6.3.7 Enforceability
+If the class action waiver at Section 6.2 is found to be unenforceable in arbitration or if any part of this Section 6.3 is found to be invalid or unenforceable, then the entirety of this Section 6.3 shall be null and void and, in such case, the parties agree that the exclusive jurisdiction and venue described in Section 6.1 shall govern any action arising out of or related to the Agreements and you shall not be prevented from bringing proceedings at any time.
+7. About these Terms
+Under applicable law, you may have certain rights that can't be limited by a contract. These terms are in no way intended to restrict those rights.
+Changes
+We may make changes to these Terms (including any additional Spotify terms and conditions incorporated by reference herein) from time to time by notifying you of such changes by any reasonable means (before they take effect), including by posting a revised Agreement on the applicable Spotify Service (provided that, for material changes, we will seek to supplement such notice by email, an in-service pop-up message, or other means). Any such changes will not apply to any dispute between you and us arising prior to the date on which we posted the revised Terms, or other Spotify terms and conditions, incorporating such changes, or otherwise notified you of such changes. Your access of the Spotify Service following any changes to these Terms will constitute your acceptance of such changes. If you do not wish to continue accessing the Spotify Service under the updated Terms, you may terminate your account by contacting us. The effective date set forth at the top of this document indicates when these Terms were last changed.
+Entire Agreement
+Other than as stated in this section or as explicitly agreed upon in writing between you and Spotify, these Terms constitute all the terms and conditions agreed upon between you and Spotify and supersede any prior agreements in relation to the subject matter of these Terms, whether written or oral. As noted above, other terms and conditions governing access of the Spotify Service are incorporated herein by reference, including the following terms and conditions: the Spotify Premium Promotional Offer Terms; Spotify's Card Terms; the Spotify User Guidelines; the Spotify Copyright Policy; and the Spotify Support Community Terms.
+Severability and Waiver
+Unless as otherwise stated in these Terms, should any provision of these Terms be held invalid or unenforceable for any reason or to any extent, the remaining provisions of these Terms will not be affected, and the application of that provision shall be enforced to the extent permitted by law.
+Any failure by Spotify or any third-party beneficiary to enforce these Terms or any provision thereof shall not waive Spotify's or the applicable third-party beneficiary's right to do so.
+Assignment
+Spotify may assign any or all of these Terms, and may assign or delegate, in whole or in part, any of its rights or obligations under these Terms. You may not assign these Terms, in whole or in part, nor transfer or sub-license your rights under these Terms, to any third party.
+Spotify
+COMPANY
+About
+Jobs
+For the Record
+COMMUNITIES
+For Artists
+Developers
+Advertising
+Investors
+Vendors
+USEFUL LINKS
+Support
+Web Player
+Free Mobile App
+SPOTIFY PLANS
+Premium Individual
+Premium Duo
+Premium Family
+Premium Student
+Spotify Free
+India (English)
+Legal
+Safety & Privacy Center
+Privacy Policy
+Cookies
+About Ads
+Accessibility
+© 2025 Spotify AB
+We andour partners use cookies to personalize your experience, to show you ads based on your interests, and for measurement and analytics purposes. By using our website and services, you agree to our use of cookies as described in ourCookie Policy.
+
+================================================================================
+
+Page: https://newsroom.spotify.com/
+Content:
+1/4
+TUNE IN TO THE LATEST
+NEWS & ANNOUNCEMENTS
+Our New Concerts Near You Playlist Makes It Fun and Easy To Discover Touring Artists
+BEHIND THE BUSINESS
+How the Music Industry’s Cultural and Financial Impact Define Its Success in 2025
+ARTISTS & CREATORS
+Canada’s Own Rupi Kaur Curates the Latest Edition of Local Spot, Revealing the Songs and Artists That Shaped Her
+NEWS & ANNOUNCEMENTS
+Spotify Audiobooks Launches a New Publishing Program for Independent Authors
+ARTISTS & CREATORS
+Bill Simmons Reflects on Five Years of The Ringer
+CULTURE & TRENDS
+Nourish Mind, Body, and Soul This Ramadan With Spotify
+CLICK A TOPIC FOR MORE NEWS
+NEWS & ANNOUNCEMENTS
+ARTISTS & CREATORS
+CULTURE & TRENDS
+BEHIND THE BUSINESS
+1/4
+COUNTDOWN TO
+Selena Gomez and benny blanco on Their New Album
+The couple sat down together in an all-new video interview for the Spotify series Countdown To to discuss the making of their first joint album, I Said I Love You First, and so much more. Check it out!
+LOTS OF LAUGHS
+Tune Into Good Hang with Amy Poehler
+The acclaimed actress, writer, director, producer, and -bestselling author has launched a new weekly video series that offers a hilarious mix of comedy, personal stories, and not-too-serious conversations with esteemed guests.
+NEWS & ANNOUNCEMENTS
+Lady Gaga’s ‘Little Monster Press Conference’ Offers an Unfiltered Look at New Album ‘MAYHEM’
+NEWS & ANNOUNCEMENTS
+How Spotify Is Driving Growth, Discovery, and Innovation in the Audiobook Market
+CULTURE & TRENDS
+Spotify Celebrates Women in Music: A Global Spotlight on Talent and Achievement
+CULTURE & TRENDS
+Salsa’s Rhythmic Revival: A New Generation Discovers the Genre’s Timeless Appeal
+NEWS & ANNOUNCEMENTS
+JENNIE and Spotify Celebrate the K-Pop Star’s Debut Solo Album With a Special ‘Rubify’ Listening Party
+Spotify news in your inbox
+By clicking “Sign Up” you’ll receive occasional emails from Spotify.
+You always have the choice to adjust your interest settings or unsubscribe.
+COMMUNITIES
+For Artists
+For Creators
+For Advertisers
+Life at Spotify
+For Design
+For Engineering
+For Vendors
+For Songwriters
+For Investors
+For Help, Chat & Ideas
+COMPANY
+About
+Jobs
+Investors
+USEFUL LINKS
+Help
+Web Player
+Get Spotify
+Legal
+Privacy Center
+Privacy Policy
+Cookies
+About Ads
+© 2025 Spotify AB.
+We andour partners use cookies to personalize your experience, to show you ads based on your interests, and for measurement and analytics purposes. By using our website and services, you agree to our use of cookies as described in ourCookie Policy.
+
+================================================================================
+
+Page: https://www.spotify.com/in-en/premium/#ref=spotifycom_footer_premium_individual
+Content:
+भारत (हिन्दी)
+✕
+Close
+SKIP TO CONTENT
+Spotify
+Menu
+Listen without limits. Try 2 months of Premium for ₹119.
+Only ₹119/month after. Cancel anytime.
+Try 2 months for ₹119
+View all plans
+₹119 for 2 months, then ₹119 per month after. Offer only available if you haven’t tried Premium before. Terms apply.
+Experience the difference
+Go Premium and enjoy full control of your listening. Cancel anytime.
+What you’ll get
+Spotify’s
+Free plan
+Spotify’s
+Premium plans
+Ad-free music listening
+Download to listen offline
+Play songs in any order
+High audio quality
+Listen with friends in real time
+Organise listening queue
+Listening insights (not in Mini)
+Affordable plans for any situation
+Choose a Premium plan and listen to ad-free music without limits on your phone, speaker and other devices. Pay in various ways. Cancel anytime.
++ 6 more
+All Premium plans include
+Ad-free music listening
+Download to listen offline
+Play songs in any order
+High audio quality
+Listen with friends in real time
+Organise listening queue
+Listening insights (not in Mini)
+Premium
+Mini
+₹29 for 1 week
+1 mobile-only Premium account
+Offline listening of up to 30 songs on 1 device
+One-time payment
+Basic audio quality
+Get Premium Mini
+Terms apply.
+₹119 for 2 months
+Premium
+Individual
+₹119 for 2 months
+₹119/month after
+1 Premium account
+Cancel anytime
+Subscribe or one-time payment
+Try 2 months for ₹119
+One-time payment
+₹119 for 2 months, then ₹119 per month after. Offer only available if you haven’t tried Premium before. Terms apply.
+₹179 for 2 months
+Premium
+Family
+₹179 for 2 months
+₹179/month after
+Up to 6 Premium accounts
+Control content marked as explicit
+Cancel anytime
+Subscribe or one-time payment
+Try 2 months for ₹179
+One-time payment
+₹179 for 2 months, then ₹179 per month after. Offer only available if you haven’t tried Premium before. For up to 6 family members residing at the same address. Terms apply.
+₹149 for 2 months
+Premium
+Duo
+₹149 for 2 months
+₹149/month after
+2 Premium accounts
+Cancel anytime
+Subscribe or one-time payment
+Try 2 months for ₹149
+One-time payment
+₹149 for 2 months, then ₹149 per month after. Offer only available if you haven’t tried Premium before. For couples who reside at the same address. Terms apply.
+₹59 for 2 months
+Premium
+Student
+₹59 for 2 months
+₹59/month after
+1 verified Premium account
+Discount for eligible students
+Cancel anytime
+Subscribe or one-time payment
+Try 2 months for ₹59
+₹59 for 2 months, then ₹59 per month after. Offer available only to students at an accredited higher education institution and if you haven’t tried Premium before. Terms apply.
+Questions?
+We’ve got answers.
+Find more answers on our Support site.
+How does the Spotify Premium trial work?
+
+
+
+
+How do I cancel my Premium plan?
+
+
+
+
+
+
+How does the Premium Duo plan work?
+
+
+How does the Premium Family plan work?
+
+
+How does the Premium Student Plan work?
+
+
+How much is Spotify Premium in India?
+Spotify
+COMPANY
+About
+Jobs
+For the Record
+COMMUNITIES
+For Artists
+Developers
+Advertising
+Investors
+Vendors
+USEFUL LINKS
+Support
+Web Player
+Free Mobile App
+SPOTIFY PLANS
+Premium Individual
+Premium Duo
+Premium Family
+Premium Student
+Spotify Free
+India (English)
+Legal
+Safety & Privacy Center
+Privacy Policy
+Cookies
+About Ads
+Accessibility
+© 2025 Spotify AB
+We andour partners use cookies to personalize your experience, to show you ads based on your interests, and for measurement and analytics purposes. By using our website and services, you agree to our use of cookies as described in ourCookie Policy.
+
+================================================================================
+
+Page: https://www.spotify.com/in-en/legal/privacy-policy/
+Content:
+भारत (हिन्दी)
+✕
+Close
+SKIP TO CONTENT
+Spotify
+Menu
+Legal
+Terms and Conditions of Use
+Intellectual Property Policy
+Privacy Policy
+User Guidelines
+Premium Offer Terms
+Spotify Privacy Policy
+Effective as of 10 October 2024
+1. About this Policy
+2. Your personal data rights and controls
+3. Personal data we collect about you
+4. Our purpose for using your personal data
+5. Sharing your personal data
+6. Data retention
+7. Transfer to other countries
+8. Keeping your personal data safe
+9. Children
+10. Changes to this Policy
+11. How to contact us
+1. About this Policy
+This Privacy Policy describes how we process your personal data at Spotify AB. From now on, we'll call it the 'Policy'.
+It applies to your use of:
+all Spotify streaming services as a user. For example this includes:
+your use of Spotify on any device
+the personalisation of your user experience. Watch our personalisation explainer video to learn more about this
+the infrastructure required to provide our services
+connection of your Spotify account with another application
+both our free or paid streaming options (each a 'Service Option')
+other Spotify services which include a link to this Policy. These include Spotify websites, Customer Service and the Community Site
+From now on, we'll collectively call these the 'Spotify Service'.
+From time to time, we may develop new or offer additional services. They'll also be subject to this Policy, unless stated otherwise when we introduce them.
+This Policy is not...
+the Spotify Terms of Use, which is a separate document. The Terms of Use outline the legal contract between you and Spotify for using the Spotify Service. It also describes the rules of Spotify and your user rights
+about your use of other Spotify services which have their own privacy policy. Other Spotify services include Anchor, Soundtrap, Megaphone and the Spotify Live app
+Other resources and settings
+Key information about your personal data is right here in this Policy. However, you might want to take a look at our other privacy resources and controls:
+Privacy Center: A user-friendly hub with summaries of key topics and helpful videos. It includes the 'Your Privacy Controls' video which shows you how to exercise your user rights and make choices about the way we process your data. See Section 2 'Your personal data rights and controls' for more on user rights.
+Account Privacy: Control the processing of certain personal data, including tailored advertising.
+Notification Settings: Set which marketing communications you get from Spotify.
+Settings (found in the Desktop and Mobile versions of Spotify): Control certain aspects of the Spotify Service such as 'Social' or 'Explicit Content'. On the 'Social' setting, you can:
+start a Private session
+choose whether to share what you listen to on Spotify with your followers
+choose whether to show your recently played artists on your public profile
+On the 'Explicit Content' setting you can control whether explicit-rated content can be played on your Spotify account.
+Cookies Policy: Information on how we use cookies and how to manage your cookie preferences. Cookies are files saved on your phone, tablet or computer when you visit a website.
+2. Your personal data rights and controls
+Many privacy laws give rights to individuals over their personal data. These laws include the General Data Protection Regulation, or 'GDPR'.
+Some rights only apply when Spotify uses a certain 'legal basis' to process your data. We explain each legal basis, and when Spotify uses each one, in Section 4 'Our purpose for using your personal data'.
+The table below explains:
+your rights
+circumstances when they apply (such as the legal basis required)
+how to use them
+You can also watch our video about Your Privacy Controls.
+It’s your right to...
+How?
+Be informed
+Be informed of the personal data we process about you and how we process it.
+We inform you:
+
+through this Policy
+through information provided to you as you use the Spotify Service
+by answering your specific questions and requests when you contact us
+Access
+Request access to the personal data we process about you.
+
+To request a copy of your personal data from Spotify, either:
+
+use the “Download your data” tool on your Account Privacy page, or
+contact us
+
+When you download your data you will receive the information about your data that Spotify has to provide under Article 15 of the GDPR. If you would like more information about how we process your personal data, you can contact us.
+Rectification
+Request that we amend or update your personal data where it’s inaccurate or incomplete.
+You can edit your User Data under ‘Edit profile’ in your account or by contacting us.
+Erasure
+Request that we erase certain of your personal data.
+
+For example, you can ask us to erase personal data:
+
+that we no longer need for the purpose it was collected for
+that we process based on the legal basis of consent, and you withdraw your consent
+when you object (see section ‘Object’ below) and
+you make a justified objection, or
+you object to direct marketing
+
+There are situations where Spotify is unable to delete your data, for example when:
+
+it’s still necessary to process the data for the purpose we collected it for
+Spotify’s interest in using the data overrides your interest in having it deleted. For example, where we need the data to protect our services from fraud
+Spotify has a legal obligation to keep the data, or
+Spotify needs the data to establish, exercise or defend legal claims. For example, if there’s an unresolved issue relating to your account
+There are several ways you can erase personal data from Spotify:
+
+to remove audio content from your profile select the relevant content and choose to remove it. For example, you can remove playlists from your profile, or remove a track from your playlist
+to request erasure of your other personal data from Spotify, follow the steps on our support page. This data includes your User Data, Usage Data and other data listed in Section 3 ‘Personal data we collect about you’
+you can also contact us to request erasure
+Restriction
+Request that we stop processing all or some of your personal data.
+
+You can do this if:
+
+your personal data is inaccurate
+our processing is unlawful
+we do not need your information for a specific purpose, or
+you object to our processing and we are assessing your objection request. See section ‘Object’ below
+
+You can request that we stop this processing temporarily or permanently.
+You can exercise your right to restriction by contacting us.
+Object
+Object to us processing your personal data.
+
+You can do this if:
+
+Spotify is processing your personal data on the legal basis of legitimate interests, or
+Spotify is processing your personal data for tailored advertising
+To exercise your right to object, you can:
+
+use controls on the Spotify Service to switch off or adjust some features which process your personal data. See the end of this section on how you can control tailored advertising
+contact us
+Data portability
+Request a copy of your personal data in electronic format and the right to transmit that personal data for use in another party’s service.
+
+You can request us to transmit your data when we are processing your personal data on the legal bases of consent or performance of contract. However Spotify will try to honour any request to the extent possible.
+For information about how to exercise the right to portability, see ‘Access’ above.
+Not be subject to automated decision making
+Not be subject to a decision based solely on automated decision making (decisions without human involvement), including profiling, where the decision would have a legal effect on you or produce a similarly significant effect.
+Spotify does not carry out this type of automated decision making in the Spotify Service.
+Withdrawal of consent
+Withdraw your consent to us collecting or using your personal data.
+
+You can do this if Spotify is processing your personal data on the legal basis of consent.
+To withdraw your consent, you can:
+
+adjust the relevant control on Spotify
+contact us
+Right to lodge a complaint
+Contact the Swedish Authority for Privacy Protection or your local data protection authority about any questions or concerns.
+You can find the Swedish Authority’s details here. You can also go to the website of your local data protection authority.
+Tailored advertising controls
+What is tailored advertising?
+This is when we use information about you to tailor ads to be more relevant to you. This is also known as interest based advertising.
+An example of tailored advertising is when an advertising partner has information suggesting you like cars. This could enable us to show you ads about cars.
+How to control tailored advertising:
+You can control tailored advertising on your Account Privacy page under 'Tailored Ads'.
+You can also control tailored advertising for some podcasts using the link in the episode's show description. This applies where the content provider inserts advertising into the podcast to fund it. The hosting provider, which might not be Spotify, manages these controls for the podcast.
+If you are 'opted out' of Tailored Ads on your Account Privacy page, you may still get advertising. This can include on our free Service Option, as well as our paid Service Option, as applicable (for example, advertising in podcasts). This type of advertising is based on your registration information and what you are currently listening to on our services. For example, if you are listening to a cooking podcast, you may hear an ad for a food processor.
+3. Personal data we collect about you
+These tables set out the categories of personal data we collect from you. You can also watch our video about Personal Data at Spotify.
+Collected when you sign up for the Spotify Service
+or when you update your account
+Category
+Description
+User Data
+Personal data that we need to create your Spotify account and that enables you to use the Spotify Service.
+
+The type of data collected and used depends on the type of Service Option you have. It also depends on how you create your account, the country you are in, and if you use third party services to sign in. This may include your:
+profile name
+email address
+password
+phone number
+date of birth
+gender
+street address (see further details below)
+country
+university/college (for Spotify Premium Student)
+
+We receive some of this data from you e.g. from the sign up form or account page.
+
+We also collect some of this data from your device e.g. country or region. For more information about how we collect and use this data, see ‘Your general (non-precise) location’ in the Usage Data category.
+Street Address Data
+We may ask for and process your street address for the following reasons:
+
+to check eligibility for a Service Option
+to deliver notices which are required by law
+to deliver support options
+for billing and tax administration
+to deliver physical goods or gifts which you have requested
+
+In some cases, we may use a third party application to help you verify your address, such as Google Maps.
+Collected through your use of the Spotify Service
+Categories
+Description
+Usage Data
+
+Personal data collected and processed about you when you’re accessing or using the Spotify Service.
+
+There are a few types of information this includes, listed in the following sections.
+
+
+Information about how you use Spotify
+
+Examples include:
+
+information about your Spotify Service Option
+your actions with the Spotify Service (including date and time), such as:
+search queries
+streaming history
+playlists you create
+your library
+browsing history
+account settings
+interactions with other Spotify users
+your use of third party services, devices and applications in connection with the Spotify Service
+inferences (i.e., our understanding) of your interests and preferences based on your usage of the Spotify Service
+content you provide when participating in Spotify promotions, such as contests or sweepstakes
+content you post to any part of the Spotify Service. For example: images, audio, text, titles, descriptions, communications, and other types of content
+Your technical data
+
+Examples include:
+
+URL information
+online identifiers such as cookie data and IP addresses
+information about the devices you use such as:
+device IDs
+network connection type (e.g. wifi, 4G, LTE, Bluetooth)
+provider
+network and device performance
+browser type
+language
+information enabling digital rights management
+operating system
+Spotify application version
+information which enables us to discover and connect with third party devices and applications. Examples of this information are the device name, device identifiers, brand and version. Examples of third party devices and applications are:
+devices on your wifi network (such as speakers) which can connect to the Spotify Service
+devices your operating system makes available when connecting via Bluetooth, plugin, and installation
+Spotify partner applications to determine whether the application is installed on your device
+
+Your general (non-precise) location
+
+Your general location includes country, region or state. We may learn this from technical data (e.g. your IP address, language setting of your device) or payment currency.
+
+We need this to:
+
+meet geographic requirements in our agreements with the owners of content on the Spotify Service
+deliver content and advertising that’s relevant to you
+
+Your device sensor data
+
+Motion-generated or orientation-generated device sensor data if needed to provide features of the Spotify Service that require this data. This is data which your device collects about the way you move or hold your device.
+Additional data you may choose to give us
+Categories
+Description
+Voice Data
+
+If voice features are available in your market and where you’ve chosen to use a voice feature, we collect and process voice data. Voice data means audio recordings of your voice and transcripts of those recordings.
+
+For more information on how different voice features work, and how you can control and turn them off, see our Voice Control Policy.
+Payment and Purchase Data
+If you make any purchases from Spotify or sign up for a paid Service Option or a trial, we will need to process your payment data.
+
+The exact personal data collected and used will vary depending on the payment method. It will include information such as:
+
+name
+date of birth
+payment method type (e.g. credit or debit card)
+if using a debit or credit card, the card type, expiration date, and certain digits of your card number Note: For security, we never store your full card number
+ZIP/postal code
+mobile phone number
+details of your purchase and payment history
+Survey and Research Data
+When you respond to a survey or take part in user research, we collect and use the personal data you provide.
+We receive some of the data mentioned above from third parties. The below table describes the categories of those third parties.
+Third party sources that we receive your data from
+Categories of third parties
+Description
+Data categories
+Authentication partners
+If you register for or log into the Spotify Service using another service, that service will send your information to us. This information helps create your account with us.
+User Data
+Third party applications, services and devices you connect to your Spotify account
+If you connect your Spotify account to a third party application, service or device, we may collect and use information from them. This collection is to make the integration possible.
+
+These third party apps, services or devices may include:
+
+social media
+devices including:
+audio (e.g. speakers and headphones)
+smart watches
+televisions
+mobile phones and tablets
+automotive (e.g. cars)
+games consoles
+services or platforms such as voice assistants or content platforms
+
+We’ll ask your permission before we collect your information from certain third parties.
+User Data
+
+Usage Data
+Technical service partners
+We work with technical service partners that give us certain data. This includes mapping IP addresses to non-precise location data (e.g., country or region, city, state).
+
+This makes it possible for Spotify to provide the Spotify Service, content, and features.
+
+We also work with security service providers who help us protect user accounts.
+User Data
+
+Usage Data
+Payment partners and Merchants
+If you choose to pay through third parties (e.g. telco carriers) or by invoice, we may get data from our payment partners.
+
+This allows us to:
+
+send you invoices
+process your payment
+give you what you’ve purchased
+
+If we direct you to a merchant, we receive data from the merchant that is related to your purchase. For example, we might direct you to an artist’s merchandise store on a third party platform or to a third party ticketing website.
+
+Receiving this data allows us to:
+
+calculate any commissions owed to us
+analyse the effectiveness of our partnership with these merchant partners
+understand your interests
+Payment and Purchase Data
+Advertising and marketing partners
+We receive inferences from certain advertising or marketing partners. These inferences are the partners’ understanding of your interests and preferences.
+
+This allows us to deliver more relevant ads and marketing.
+Usage Data
+Acquired companies
+We may receive data about you from companies we acquire. This is to enhance our services, products, and offerings.
+User Data
+
+Usage Data
+If you download the Spotify mobile app and try Spotify using a logged out user experience, we will collect limited information about your usage of the Spotify Service, including Usage Data. We do this to understand how you are accessing and using the Service. We also do this to ensure we provide the right experience for you, for example based on your country or region. If you decide to create a Spotify account to experience our service in full, then we will combine this data with your Spotify account data.
+4. Our purpose for using your personal data
+The table below sets out:
+our purpose for processing your personal data
+our legal justifications (each called a 'legal basis') under data protection law, for each purpose
+categories of personal data which we use for each purpose. See more about these categories in Section 3 'Personal data we collect about you'
+You can also watch our video about Personal Data at Spotify.
+Here is a general explanation of each 'legal basis' to help you understand the table:
+Performance of a Contract: When it's necessary for Spotify (or a third party) to process your personal data to:
+comply with obligations under a contract with you. This includes Spotify's obligations under the Terms of Use to provide the Spotify Service to you, or
+verify information before a new contract with you begins.
+Legitimate Interest: When Spotify or a third party has an interest in using your personal data in a certain way, which is necessary and justified considering any possible risks to you and other Spotify users. For example, using your Usage Data to improve the Spotify Service for all users. Contact us if you want to understand a specific justification.
+Consent: When Spotify asks you to actively indicate your agreement to Spotify's use of your personal data for a certain purpose.
+Compliance with Legal Obligations: When Spotify must process your personal data to comply with a law.
+Purpose for processing your data
+Legal basis that permits the purpose
+Categories of personal data used for the purpose
+To provide the Spotify Service in accordance with our contract with you.
+
+For example, when we use your personal data to:
+
+set up an account for you
+personalise your account, or
+provide the Spotify app when you download it onto your device
+Performance of a Contract
+
+
+
+User Data
+Street Address Data
+Usage Data
+Voice Data
+Payment and Purchase Data
+To provide further parts of the Spotify Service.
+
+For example, when we use your personal data to enable you to share a link to Spotify content with someone else.
+Legitimate Interest
+
+Our legitimate interests here include:
+
+keeping the Spotify Service running and functional
+allowing users to access and use the Spotify Service
+User Data
+Street Address Data
+Usage Data
+Voice Data
+Payment and Purchase Data
+To provide certain additional voluntary features of the Spotify Service. When this is the case, we will clearly ask for your consent.
+Consent
+User Data
+Usage Data
+Survey and Research Data
+Payment and Purchase Data
+To diagnose, troubleshoot, and fix issues with the Spotify Service.
+Performance of a Contract
+
+User Data
+Usage Data
+To evaluate and develop new features, technologies, and improvements to the Spotify Service.
+
+For example:
+
+we use personal data to develop and improve our personalised recommendation algorithms
+we analyse how our users react to a particular new feature and see whether we should make any changes
+Legitimate Interest
+
+Our legitimate interests here include developing and improving products and features for our users.
+User Data
+Usage Data
+Voice Data
+Survey and Research Data
+For marketing or advertising where the law requires us to collect your consent.
+
+For example, when we use cookies to understand your interests or the law requires consent for email marketing.
+
+
+Consent
+User Data
+Usage Data
+Survey and Research Data
+For other marketing, promotion and advertising purposes where the law does not require consent.
+
+For example, when we use your personal data to tailor advertising to your interests.
+
+
+Legitimate Interest
+
+Our legitimate interests here include using advertising to fund the Spotify Service, so that we can offer much of it for free.
+User Data
+Usage Data
+Survey and Research Data
+To comply with a legal obligation that we are subject to.
+
+This might be:
+
+an obligation under the law of the country / region you are in
+Swedish law (because of our headquarters in Sweden), or
+EU law that applies to us
+
+For example, when we use your date of birth when required for age verification purposes.
+Compliance with legal obligations
+
+User Data
+Street Address Data
+Usage Data
+Voice Data
+Payment and Purchase Data
+Survey and Research Data
+To comply with a request from law enforcement, courts, or other competent authorities.
+
+
+Compliance with legal obligations, and legitimate interest
+Our legitimate interests here include assisting law enforcement authorities to prevent or detect serious crime.
+User Data
+Street Address Data
+Usage Data
+Voice Data
+Payment and Purchase Data
+Survey and Research Data
+To fulfil contractual obligations with third parties.
+
+For example, when we provide pseudonymised data about our users’ listening because we have an agreement with a Spotify rightsholder to do so.
+
+Pseudonymised data means that your data is identified by a code rather than your name or other directly identifying information.
+
+
+Legitimate Interest
+
+Our legitimate interests here include:
+
+maintaining our relationships with artists so that we can provide the Spotify Service
+maintaining our relationships with other third parties for the same reason
+User Data
+Usage Data
+Voice Data
+Payment and Purchase Data
+To take appropriate action with reports of intellectual property infringement and inappropriate content.
+Legitimate Interest
+
+Our legitimate interests here include protecting intellectual property and original content.
+User Data
+Usage Data
+Voice Data
+Payment and Purchase Data
+To establish, exercise, or defend legal claims.
+
+For example, if we are involved in litigation and we need to provide information to our lawyers in relation to that legal case.
+Legitimate Interest
+
+Our legitimate interests here include:
+
+seeking legal advice
+protecting ourselves, our users or others in legal proceedings
+User Data
+Street Address Data
+Usage Data
+Voice Data
+Payment and Purchase Data
+Survey and Research Data
+To conduct business planning, reporting, and forecasting.
+
+For example, when we look at aggregated user data like the number of new sign ups in a country in order to plan new locations to launch our products and features in.
+Legitimate Interest
+
+Our legitimate interests here include researching and planning so that we can keep running our business successfully.
+User Data
+Usage Data
+Payment and Purchase Data
+To process your payment.
+
+For example, when we use your personal data to let you purchase a Spotify subscription.
+Performance of a Contract, and consent
+
+
+User Data
+Payment and Purchase Data
+Street Address Data
+To keep the Spotify Service secure and to detect and prevent fraud.
+
+For example, when we analyse Usage Data to check for fraudulent use of the Spotify Service.
+Legitimate Interest
+
+Our legitimate interests here include protecting the Spotify Service and our users against fraud and other illegal activity.
+User Data
+Street Address Data
+Usage Data
+Payment and Purchase Data
+To conduct research and surveys.
+
+For example, when we contact our users to ask for your feedback.
+Legitimate Interest
+
+Our legitimate interests here include to understand more about how users think about and use the Spotify Service.
+User Data
+Usage Data
+Voice Data
+Survey and Research Data
+5. Sharing your personal data
+This section sets out who receives personal data which is collected or generated through your use of the Spotify Service.
+Publicly available information
+The following personal data will always be publicly available on the Spotify Service (except to any user you have blocked):
+your profile name
+your profile photo
+your public playlists
+other content you post on the Spotify Service, and any associated titles, descriptions and images
+who you follow on the Spotify Service
+who follows you on the Spotify Service
+You or another user can share certain information on third party services, like social media or messaging platforms. This includes:
+your profile
+any content you post on Spotify and details about that content
+your playlists and any associated titles, descriptions and images
+When this sharing occurs, the third party service may store a copy of it to support their features.
+Personal data you may choose to share
+We will only share the following personal data with those outlined in the table below:
+where you have chosen to use a Spotify Service feature, or a third party application, service or device, and we need to share personal data to enable this, or
+if you otherwise grant us your permission to share the personal data. For example, you can do it by selecting the appropriate setting in the Spotify Service or by giving your consent
+Categories of recipients
+Categories of data you can choose to share
+Reason for sharing
+Third party applications, services and devices you connect to your Spotify account
+User Data
+Usage Data
+
+To connect your Spotify account, or so that you can use the Spotify Service in connection with third party applications, services or devices.
+
+Examples of such third party applications, services and devices include:
+
+social media applications
+speaker devices
+televisions
+automotive platforms
+voice assistants
+
+You can see and remove many third party connections under ‘Apps’ in your account.
+Support community
+User Data
+To enable you to use the Spotify Support Community service.
+
+When you register for an account on the Spotify Support Community, we’ll ask you to create a profile name. This will be publicly displayed to anyone who uses the Spotify Support Community. We’ll also display any questions or comments you post.
+Other Spotify users
+User Data
+Usage Data
+Voice Data
+To share information about your use of the Spotify Service with other Spotify users. These could include your followers on Spotify.
+
+For example, under ‘Social’ settings you can choose to share your recently played artists and your playlists on your profile. You can also choose to create or join a shared playlist with other users. Shared playlists give you social recommendations based on your listening activity.
+Artists and record labels
+User Data
+To receive news or promotional offers from artists, record labels or other partners.
+
+You may choose to share your User Data for this purpose. You’ll always have the option to change your mind and withdraw your consent at any time.
+Information we may share
+See this table for details of who we share to and why.
+Categories of recipients
+Categories of data
+Reason for sharing
+Service providers
+User Data
+Street Address Data
+Usage Data
+Voice Data
+Payment and Purchase Data
+Survey and Research Data
+So they can provide their services to Spotify.
+
+These service providers include those we hire to:
+
+give customer support
+operate the technical infrastructure we need to provide the Spotify Service
+assist in protecting and securing our systems and services (e.g. Google’s reCAPTCHA)
+help market Spotify’s (and our partners’) products, services, events and promotions
+Payment partners
+User Data
+Payment and Purchase Data
+So they can process your payments, and for anti-fraud purposes.
+Advertising partners
+User Data
+Usage Data
+So they can help us deliver more relevant advertising to you on the Spotify Service, and help measure the effectiveness of ads.
+
+For example, our ad partners help us facilitate tailored advertising.
+Marketing Partners
+User Data
+Usage Data
+To promote Spotify with our partners. We share certain User Data and Usage Data with these partners where necessary to:
+
+enable you to participate in Spotify promotions, including trials or other bundled offers
+to promote Spotify in media and advertising published on other online services
+help us and our partners to measure the effectiveness of Spotify promotions
+
+Examples of partners include:
+
+marketing or sponsorship partners
+websites and mobile apps who sell us advertising space on their services
+device, app and mobile partners who also offer Spotify promotions
+
+Our partners may also combine the personal data we share with them with other data they collect about you, e.g. your use of their services. We and our partners may use this information to present you with offers, promotions, or other marketing that we think you’ll find relevant.
+Hosting Platforms
+Usage Data
+Hosting platforms host podcasts so that they can deliver them to you. We share certain data, such as your IP address, with the hosting platforms when you play a podcast. We also allow you to stream podcasts available from other hosting platforms not owned by Spotify.
+
+Podcast providers should explain in the show or episode description which platform is hosting the podcast. See the hosting platform’s own privacy policy for how they use data shared with them.
+Academic researchers
+User Data
+Usage Data
+For activities such as statistical analysis and academic study, but only in a pseudonymised format.
+Spotify group companies, including companies that Spotify acquires
+User Data
+Street Address Data
+Usage Data
+Voice Data
+Payment and Purchase Data
+Survey and Research Data
+
+We will share your data amongst Spotify group companies to carry out our daily business operations and so we can maintain, improve and provide the Spotify Service and acquired companies’ services to you.
+
+For example:
+
+enabling our employees who work for different group companies to develop and improve features for the Spotify Service
+sharing data with our measurement companies to measure the effectiveness of ad campaigns that run on the Spotify Service
+sharing data with our podcast companies to better understand user listening trends
+Law enforcement and other authorities, or other parties to litigation
+User Data
+Usage Data
+When we believe in good faith it’s necessary for us to do so, for example:
+
+to comply with a legal obligation
+to respond to a valid legal process (such as a search warrant, court order, or subpoena)
+for our own or a third party’s justifiable interest, relating to:
+national security
+law enforcement
+litigation (a court case)
+criminal investigation
+protecting someone’s safety
+preventing death or imminent bodily harm
+Purchasers of our business
+User Data
+Street Address Data
+Usage Data
+Voice Data
+Payment and Purchase Data
+Survey and Research Data
+If we were to sell or negotiate to sell our business to a buyer or possible buyer.
+
+In this case, we may transfer your personal data to a successor or affiliate as part of that transaction.
+6. Data retention
+We keep your personal data only as long as necessary to provide you with the Spotify Service and for Spotify's legitimate and essential business purposes, such as:
+maintaining the performance of the Spotify Service
+making data-driven business decisions about new features and offerings
+complying with our legal obligations
+resolving disputes
+Here are some of the categories of our retention periods, and the criteria we use to determine them:
+Data retained until you remove it
+It's your right to request that we delete certain of your personal data. See the section on 'Erasure' in Section 2 'Your personal data rights and controls' for more information, and the circumstances in which we can act on your request.
+You can also delete certain personal data directly from the Spotify Service: for example, you can edit or delete your profile picture. Where users are able to see and update the personal data themselves, we keep the information for as long as the user chooses unless one of the limited purposes described below applies.
+Data that expires after a specific period of time
+We have set certain retention periods so that some data expires after a specific period of time. For example, personal data you may input as part of search queries is generally deleted after 90 days.
+Data retained until your Spotify account is deleted
+We keep some data until your Spotify account is deleted. Examples of this include your Spotify username and profile information. We also typically keep streaming history for the life of an account, for example, to provide retrospective playlists that users enjoy and personalised recommendations that take listening habits into account (for example, Your Time Capsule or Your Summer Rewind). When your Spotify account is deleted, this category of your data is deleted or de-identified.
+Data retained for extended time periods for limited purposes
+After your account is deleted, we keep some data for a longer time period but for very limited purposes. For example, we may be subject to legal or contractual obligations that require this. These may include mandatory data retention laws, government orders to preserve data relevant to an investigation, or data kept for the purposes of litigation. We may also keep data that has been removed from the Spotify Service for a limited period of time. This could be:
+to help ensure user safety, or
+to protect against harmful content on our platform.
+This helps us investigate potential breaches of our User Guidelines and Platform Rules. On the other hand, we will remove unlawful content if the law requires us to do so.
+7. Transfer to other countries
+Because of the global nature of our business, your personal data will be shared internationally among Spotify group companies, subcontractors and partners when carrying out the activities described in this Policy. They may process your data in countries whose data protection laws are not considered to be as strong as EU laws or the laws which apply where you live. For example, they may not give you the same rights over your data.
+Whenever we transfer personal data internationally, we use tools to:
+make sure the data transfer complies with applicable law
+help to give your data the same level of protection as it has in the EU
+To ensure each data transfer complies with applicable EU legislation, we use the following legal mechanisms:
+Standard Contractual Clauses ('SCCs'). These clauses require the other party to protect your data and to provide you with EU-level rights and protections. For example, we use SCCs to transfer the personal data described in Section 3 'Personal data we collect about you' to our hosting provider which uses servers in the US. You can exercise your rights under the Standard Contractual Clauses by contacting us or the third party who processes your personal data.
+Adequacy Decisions. This means that we transfer personal data to countries outside of the European Economic Area which have adequate laws to protect personal data, as determined by the European Commission. For example, we transfer the personal data described in Section 3 'Personal data we collect about you' to vendors based in the United Kingdom, Canada, Japan, Republic of Korea and Switzerland.
+We also identify and use additional protections as appropriate for each data transfer. For example, we use:
+technical protections, such as encryption and pseudonymisation
+policies and processes to challenge disproportionate or unlawful government authority requests
+8. Keeping your personal data safe
+We're committed to protecting our users' personal data. We put in place appropriate technical and organisational measures to help protect the security of your personal data. However, be aware that no system is ever completely secure.
+We have put various safeguards in place including pseudonymisation, encryption such as Transport Layer Security (TLS) and AES, access, and retention policies to guard against unauthorised access and unnecessary retention of personal data in our systems. In addition, personal data stored in our computer systems are secured by physical security measures.
+To protect your user account, we encourage you to:
+use a strong password which you only use for your Spotify account
+never share your password with anyone
+limit access to your computer and browser
+log out once you have finished using the Spotify Service on a shared device
+read more detail on protecting your account
+You can log out of Spotify in multiple places at once by using the 'Sign out everywhere' function on your account page.
+If other individuals have access to your Spotify account, then they can access personal data, controls and the Spotify Service available in your account. For example, you might have allowed someone to use your account on a shared device.
+It's your responsibility to only allow individuals to use your account where you're comfortable sharing this personal data with them. Anyone else's use of your Spotify account may impact your personalised recommendations and be included in your data download.
+9. Children
+Note: This Policy doesn't apply to Spotify Kids unless the Spotify Kids Privacy Policy says so. Spotify Kids is a separate Spotify application.
+The Spotify Service has a minimum 'Age Limit' in each country or region. The Spotify Service is not directed to children whose age:
+is under the age of 13 years
+makes it illegal to process their personal data, or
+requires parental consent to process their personal data
+We do not knowingly collect or use personal data from children under the applicable Age Limit. If you're under the Age Limit, do not use the Spotify Service, and do not provide any personal data to us. Instead, we recommend using a Spotify Kids account.
+If you're a parent of a child under the Age Limit and become aware that your child has provided personal data to Spotify, contact us.
+If we learn that we've collected the personal data of a child under the applicable Age Limit, we'll take reasonable steps to delete the personal data. This may require us to delete the Spotify account for that child.
+When using a shared device on the main Spotify Service, be cautious about playing or recommending any inappropriate content to individuals under 18 years old.
+10. Changes to this Policy
+We may occasionally make changes to this Policy.
+When we make material changes to this Policy, we'll provide you with prominent notice as appropriate under the circumstances. For example, we may display a prominent notice within the Spotify Service or send you an email or device notification.
+11. How to contact us
+For any questions or concerns about this Policy, contact our Grievance Officer/Data Protection Officer any one of these ways:
+email privacy@spotify.com
+write to us at: Spotify, Regeringsgatan 19, 111 53 Stockholm, Sweden
+For the purposes of the GDPR, Spotify AB is the data controller of personal data processed under this Policy.
+© Spotify
+Spotify
+COMPANY
+About
+Jobs
+For the Record
+COMMUNITIES
+For Artists
+Developers
+Advertising
+Investors
+Vendors
+USEFUL LINKS
+Support
+Web Player
+Free Mobile App
+SPOTIFY PLANS
+Premium Individual
+Premium Duo
+Premium Family
+Premium Student
+Spotify Free
+India (English)
+Legal
+Safety & Privacy Center
+Privacy Policy
+Cookies
+About Ads
+Accessibility
+© 2025 Spotify AB
+We andour partners use cookies to personalize your experience, to show you ads based on your interests, and for measurement and analytics purposes. By using our website and services, you agree to our use of cookies as described in ourCookie Policy.
+
+================================================================================
+
+Page: https://twitter.com/spotify
+Content:
+Your connection isn't private
+Attackers might be trying to steal your information from twitter.com (for example, passwords, messages, or credit cards). Learn more about this warning
+NET::ERR_CERT_AUTHORITY_INVALID
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Refresh
+Advanced
+
+================================================================================
+
+Page: https://www.spotify.com/in-en/duo/#ref=spotifycom_footer_premium_duo
+Content:
+भारत (हिन्दी)
+✕
+Close
+SKIP TO CONTENT
+Spotify
+Menu
+Premium Duo. Music for two.
+Two Premium accounts for couples under one roof.
+₹149.00/month. Cancel anytime.
+get started
+learn more
+Terms and conditions apply. For couples who reside at the same address.
+Listen together.
+Listen separately.
+With two separate accounts you can both enjoy your own music without having to take turns.
+Best value for two
+Two people, two separate Spotify Premium accounts for ₹149.00, all in a single bill.
+Why get Premium Duo?
+Download music. Listen anywhere.
+Ad-free music listening.
+Play any track. Even on mobile.
+Unlimited skips. Just hit next.
+Already got Spotify Premium?
+If you switch to Duo, you keep all your
+Music
+Playlists
+Recommendations
+What’s Premium Duo?
+Premium Duo is a discount plan for 2 people who live together.
+learn more
+Cancel anytime
+Cancel monthly subscription online anytime.
+It’s easy to get Premium Duo
+Join Duo by signing up or logging in with your existing account.
+Invite someone you live with to join Duo by email, WhatsApp - whatever works for you.
+They accept the invitation at home, confirm their address, and that’s it - you’re both on Duo. *
+* You both must live at the same address to join Premium Duo.
+Questions?
+We’ve got answers.
+Do we share an account, or do we each get our own?
+I’m already on Premium. What happens to all my saved music?
+How does the bill work? Do we split the cost?
+Can we only listen at home?
+Premium Duo. Music for two.
+Two Premium accounts for couples under one roof.
+₹149.00/month. Cancel anytime.
+get started
+Terms and conditions apply. For couples who reside at the same address.
+Spotify
+COMPANY
+About
+Jobs
+For the Record
+COMMUNITIES
+For Artists
+Developers
+Advertising
+Investors
+Vendors
+USEFUL LINKS
+Support
+Web Player
+Free Mobile App
+SPOTIFY PLANS
+Premium Individual
+Premium Duo
+Premium Family
+Premium Student
+Spotify Free
+India (English)
+Legal
+Safety & Privacy Center
+Privacy Policy
+Cookies
+About Ads
+Accessibility
+© 2025 Spotify AB
+We andour partners use cookies to personalize your experience, to show you ads based on your interests, and for measurement and analytics purposes. By using our website and services, you agree to our use of cookies as described in ourCookie Policy.
+
+================================================================================
+
+Page: https://instagram.com/spotify
+Content:
+Your connection isn't private
+Attackers might be trying to steal your information from instagram.com (for example, passwords, messages, or credit cards). Learn more about this warning
+NET::ERR_CERT_AUTHORITY_INVALID
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Refresh
+Advanced
+
+================================================================================
+
+Page: https://www.spotify.com/in-en/free/
+Content:
+भारत (हिन्दी)
+✕
+Close
+SKIP TO CONTENT
+Spotify
+Menu
+Play millions of songs and podcasts for free
+Sign up free
+Why Spotify?
+Play your favorites
+Listen to the songs you love, and discover new music and podcasts.
+Playlists made easy
+We'll help you make playlists. Or enjoy playlists made by music experts.
+Make it yours
+Tell us what you like, and we'll recommend music for you.
+Save mobile data
+To use less data when you play music, turn on Data Saver in Settings.
+It's free. No credit card required.
+Got questions?
+How do I create a playlist?
+
+
+
+
+
+
+
+How do I activate Data Saver mode?
+
+
+
+Is it only possible to shuffle play music?
+
+
+Where can I find Podcasts?
+Ready? Let’s play.
+Sign up free
+Spotify
+COMPANY
+About
+Jobs
+For the Record
+COMMUNITIES
+For Artists
+Developers
+Advertising
+Investors
+Vendors
+USEFUL LINKS
+Support
+Web Player
+Free Mobile App
+SPOTIFY PLANS
+Premium Individual
+Premium Duo
+Premium Family
+Premium Student
+Spotify Free
+India (English)
+Legal
+Safety & Privacy Center
+Privacy Policy
+Cookies
+About Ads
+Accessibility
+© 2025 Spotify AB
+We andour partners use cookies to personalize your experience, to show you ads based on your interests, and for measurement and analytics purposes. By using our website and services, you agree to our use of cookies as described in ourCookie Policy.
+
+================================================================================
+
+Page: https://www.spotify.com/in-en/legal/cookies-policy/
+Content:
+भारत (हिन्दी)
+✕
+Close
+SKIP TO CONTENT
+Spotify
+Menu
+Legal
+Terms and Conditions of Use
+Intellectual Property Policy
+Privacy Policy
+User Guidelines
+Premium Offer Terms
+Spotify Cookie Policy
+Effective as of 29 May 2023
+What are cookies?
+How do we use cookies?
+Options for managing cookies and interest-based ads
+Updates to this Policy
+How to contact us
+This policy describes how Spotify uses cookies. From now on, we'll call it the 'Policy'. The purpose of this Policy is to provide you, a user of Spotify's services and/or websites (we'll collectively call these the 'Services'), with clear information about the purposes for which Spotify uses cookies and the choices you have when it comes to managing your cookie settings.
+1. What are cookies?
+Cookies are small pieces of text which are downloaded to your device, for example, when you visit a website. Cookies are useful because they allow Spotify and our partners to uniquely recognise your device and support the continuity of your experience, for example by helping us to understand your preferences or past actions. You can find more general information about cookies at: www.allaboutcookies.org.
+2. How do we use cookies?
+Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improving your user experience. They can also help to ensure that ads you see online are more relevant to you and your interests.
+Spotify uses two main categories of cookie: (1) strictly necessary cookies; and (2) optional cookies:
+1. Strictly Necessary Cookies
+These cookies are set by Spotify or a third party on our behalf, and are essential to enable you to use the features of our Services, such as technically delivering content, setting your privacy preferences, logging in, making payments or filling in forms. Without these cookies, our Services cannot be provided so you cannot decline them.
+2. Optional Cookies
+Optional cookies may be 'first party cookies' or 'third party cookies'. First party cookies set directly by Spotify or by a third party at our request. Third party cookies are set directly by a third party or set by Spotify at the request of a third party, such as our analytics or advertising service providers. You can see a list of these partners at this link. Spotify, or our partners, use optional cookies in the following ways:
+Cookie Type
+Purpose
+Strictly Necessary Cookies
+These cookies are essential in order to enable you to use the features of our Services, such as technically delivering content, setting your privacy preferences, logging in, making payments or filling in forms. Without these cookies, our Services cannot be provided so you cannot decline them.
+Performance Cookies
+These cookies collect information about how visitors use our Services. For example, these cookies allow us to count visits to our website and to understand how visitors found the website.
+Web analytics that use cookies to gather data to enhance the performance of a website fall into this category. For example, they may be used for testing designs and ensuring a consistent look and feel is maintained for the user. We may also obtain information from our email newsletters or other communications we send to you, including whether you opened or forwarded a newsletter or clicked on any of its content. This information tells us about our newsletters' effectiveness and helps us ensure that we're delivering information that you find interesting.
+This category does not include cookies used for behavioural/interest-based targeted advertising networks.
+Functional
+These cookies allow our Services to remember choices you make such as your user name, language or the region you are in and provide enhanced, more personal features and content. For example, these cookies can be used to remember changes you have made to parts of web pages that you can customise.
+These cookies remember choices you make to improve your experience. If you do not allow these cookies then some of the choices you have made on previous visits to our Services will not be saved.
+Targeting or advertising Cookies
+These cookies collect information about your browsing habits in order to deliver advertisements more relevant to you and to understand your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertisements Spotify shares. These cookies log that you have visited a website and this information may be shared with other organisations such as advertisers. Additionally, Spotify may share limited data with other platforms to market Spotify promotions, features, or new releases on those other platforms. If you do not allow these cookies you will still experience advertising but it will be less tailored to you.
+3. Options for managing cookies and interest-based ads
+Web Browser Settings
+You can use your web browser settings to accept, refuse and delete cookies. To do this, follow the instructions provided by your browser (usually located within the 'Help', 'Tools' or 'Edit' settings).
+Please note that if you set your browser to refuse cookies, you may not be able to use all the features of the Spotify website. To find out more information, you can visit www.allaboutcookies.org.
+Mobile Identifiers
+On your mobile device, your operating system may provide you with additional options to opt out of interest based advertising or to otherwise reset your mobile identifiers. For example, you may use the 'Allow Apps to Request to Track' setting (on iOS devices) or the 'Opt out of Interest-Based Ads' setting (on Android devices). These settings allow you to limit the use of information about your use of apps for purposes of serving ads tailored to your interests.
+Interest-Based Advertising
+You may opt-out of receiving interest-based advertisements by turning off the 'Tailored ads' toggle, located in the Privacy Settings page of your Spotify Account. If you opt-out of receiving interest-based ads using the Tailored ads toggle, Spotify will not share your information with third party advertising partners or use information received by them to show you interest-based ads. You may still receive ads when using the Services based on your Spotify registration information and your real-time usage of Spotify, but the ads may be less relevant to you.
+Certain tailored advertisements that we, or a service provider acting on our behalf, display to you may include the 'Ad Choices' icon or another mechanism to opt out of receiving interest-based advertisements. You may click on the AdChoices icon or visit www.aboutads.info to:
+learn more about the collection and use of information about your online activities for interest based advertising; or
+opt out of having your data used for interest based advertising by Digital Advertising Alliance (DAA) participating companies.
+4. Updates to this Policy
+We may occasionally make changes to this Policy.
+When we make material changes to this Policy, we'll provide you with prominent notice as appropriate under the circumstances. For example, we may display a prominent notice within the Spotify Services or send you an email or device notification.
+5. How to contact us
+Thank you for reading this Policy. If you have any questions about this Cookie Policy, please contact our Data Protection Officer by using the Customer Support contact form details on the Privacy Center or by writing to us at the following address:
+Spotify AB
+Regeringsgatan 19, SE-111 53 Stockholm
+Sweden
+SE556703748501
+© Spotify AB.
+Spotify
+COMPANY
+About
+Jobs
+For the Record
+COMMUNITIES
+For Artists
+Developers
+Advertising
+Investors
+Vendors
+USEFUL LINKS
+Support
+Web Player
+Free Mobile App
+SPOTIFY PLANS
+Premium Individual
+Premium Duo
+Premium Family
+Premium Student
+Spotify Free
+India (English)
+Legal
+Safety & Privacy Center
+Privacy Policy
+Cookies
+About Ads
+Accessibility
+© 2025 Spotify AB
+We andour partners use cookies to personalize your experience, to show you ads based on your interests, and for measurement and analytics purposes. By using our website and services, you agree to our use of cookies as described in ourCookie Policy.
+
+================================================================================
+
+Page: https://www.spotify.com/in-en/about-us/contact/
+Content:
+भारत (हिन्दी)
+✕
+Close
+SKIP TO CONTENT
+Spotify
+Menu
+About Us
+With Spotify, it’s easy to find the right music or podcast for every moment – on your phone, your computer, your tablet and more.
+There are millions of tracks and episodes on Spotify. So whether you’re behind the wheel, working out, partying or relaxing, the right music or podcast is always at your fingertips. Choose what you want to listen to, or let Spotify surprise you.
+You can also browse through the collections of friends, artists, and celebrities, or create a radio station and just sit back.
+Soundtrack your life with Spotify. Subscribe or listen for free.
+Customer Service and Support
+Help site. Check out our help site for answers to your questions and to learn how to get the most out of Spotify and your music.
+Community. Get fast support from expert Spotify users. If there isn’t already an answer there to your question, post it and someone will quickly answer. You can also suggest and vote on new ideas for Spotify or simply discuss music with other fans.
+Contact us. Contact our Customer Support if you don’t find a solution on our support site or Community.
+Or pick a topic:
+Advertising on Spotify? Advertisers section
+Press query? Press section
+Applying for a job? Jobs section
+Spotify USA, Inc. provides the Spotify service to users in the United States. Spotify AB provides the Spotify service to users in all other markets.
+Spotify HQ
+Spotify AB
+Regeringsgatan 19
+SE-111 53 Stockholm
+Sweden
+Reg no: 556703-7485
+office@spotify.com
+Spotify around the world
+Spotify Belgium
+Square de Meeus 37
+4th floor
+1000 Brussels
+Belgium
+office@spotify.com
+Spotify GmbH
+Unter den Linden 10
+10117 Berlin
+Germany
+office@spotify.com
+Spotify Canada Inc.
+220 Adelaide Street West
+M5H 1W7 Toronto Ontario
+Canada
+office@spotify.com
+Spotify Denmark ApS
+Kampmannsgade 2,
+1604 Copenhagen
+Denmark
+office@spotify.com
+SPOTIFY SPAIN SL
+Paseo de Recoletos, 7-9
+28004 Madrid
+Spain
+office@spotify.com
+Spotify Finland Oy
+c/o Intertrust (Finland)
+Uudenmaankatu 1-5
+00120 Helsinki
+Finland
+office@spotify.com
+Spotify France SAS
+48 Rue la Bruyère
+75009
+Paris
+France
+office@spotify.com
+Spotify India LLP
+Jet Airways - Godrej BKC
+1st Floor, Unit 1 and 2,
+Plot C-68, G Block, Bandra Kurla Complex, Bandra East,
+Mumbai Suburban 400051
+Maharashtra
+India
+office@spotify.com
+Spotify Italy S.r.l.
+Via Joe Colombo 4
+20124 Milano
+Italy
+office@spotify.com
+Spotify Netherlands
+Singel 540 3h
+1017AZ, Amsterdam
+Netherlands
+office@spotify.com
+Spotify Ltd
+Adelphi Building
+4 Savoy Place
+London WC2N 6AT
+United Kingdom
+office@spotify.com
+Spotify USA Inc
+4 World Trade Center
+150 Greenwich Street, 62nd Floor
+New York, NY 10007
+USA
+office@spotify.com
+Spotify Mexico
+Pedregal 24 Torre Virreyes Piso 8
+Col. Molino del Rey
+DF 11040
+Mexico
+office@spotify.com
+Spotify Israel
+office@spotify.com
+Spotify Technology S.A.
+33 Boulevard Prince Henri
+L-1724 Luxembourg
+office@spotify.com
+Spotify
+COMPANY
+About
+Jobs
+For the Record
+COMMUNITIES
+For Artists
+Developers
+Advertising
+Investors
+Vendors
+USEFUL LINKS
+Support
+Web Player
+Free Mobile App
+SPOTIFY PLANS
+Premium Individual
+Premium Duo
+Premium Family
+Premium Student
+Spotify Free
+India (English)
+Legal
+Safety & Privacy Center
+Privacy Policy
+Cookies
+About Ads
+Accessibility
+© 2025 Spotify AB
+We andour partners use cookies to personalize your experience, to show you ads based on your interests, and for measurement and analytics purposes. By using our website and services, you agree to our use of cookies as described in ourCookie Policy.
+
+================================================================================
+

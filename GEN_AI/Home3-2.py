@@ -106,8 +106,8 @@ def scrape_all_pages(base_url):
     return "\n\n".join(full_content)
 
 # Initialize Gemini API
-# genai.configure(api_key=)
-# model = genai.GenerativeModel("gemini-2.0-pro-exp")
+genai.configure(api_key="AIzaSyAceKZACJb0Si9xZIVbwBL4dcS4veiAz34")
+model = genai.GenerativeModel("gemini-2.0-pro-exp")
 
 # Questions for information extraction
 questions = [
@@ -123,6 +123,7 @@ questions = [
 def get_gemini_answers(text, question):
     cleaned_text = clean_text(text)  # Clean the scraped content
     prompt = f"Give short and clear answers for the question from the given text \n\n{cleaned_text[:5000]}\n\n- {question}"
+    time.sleep(10)
     try:
         response = model.generate_content(prompt)
         return response.text if response and hasattr(response, "text") else "No response from Gemini"
