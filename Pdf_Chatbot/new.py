@@ -42,11 +42,6 @@ if "document_embeddings" not in st.session_state:
 
 # Check if uploaded files are different from previous uploads
 if uploaded_files:
-    # Clear chat history if a new file is uploaded
-    if "uploaded_files" in st.session_state and st.session_state.uploaded_files != [f.name for f in uploaded_files]:
-        st.session_state.chat_history = []
-        st.session_state.document_embeddings = {}  # Reset embeddings
-        st.session_state.uploaded_files = [f.name for f in uploaded_files]  # Store the new uploaded files
 
     # Process the uploaded files
     for uploaded_file in uploaded_files:
@@ -62,6 +57,8 @@ if uploaded_files:
             # Initialize a text splitter for chunking (e.g., chunk by characters)
             text_splitter = CharacterTextSplitter(chunk_size=500, chunk_overlap=50)  # 500 chars per chunk, 50 chars overlap
 
+            print(text_splitter)
+
             # Chunk the documents into smaller pieces
             chunked_docs = []
             for doc in docs:
@@ -69,6 +66,9 @@ if uploaded_files:
 
             # Generate embeddings (vectors) for the chunked content
             pdf_vectors = embedding_model.embed_documents(chunked_docs)
+
+            print(len(pdf_vectors[0]))  # Prints the dimension of one vector
+
 
             # Store the vectors along with content and metadata in ChromaDB
             for i, chunk in enumerate(chunked_docs):
